@@ -253,7 +253,7 @@ async def scan_media(file: UploadFile = File(...), scan_type: str = Form(None)):
     try:
         import google.generativeai as genai
         
-        GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "AIzaSyDmGcvBSCwXaC7U6x7C-YmpmUUT2Eokh9U")
+        GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "API Key")
         if not GEMINI_API_KEY:
             raise ValueError("GEMINI_API_KEY not set")
         genai.configure(api_key=GEMINI_API_KEY)
