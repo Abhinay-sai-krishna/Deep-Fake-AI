@@ -1,0 +1,6014 @@
+{
+  "summary": {
+    "total_images": 1000,
+    "classified_real": 90,
+    "classified_fake": 910,
+    "threshold": 0.5,
+    "device": "cpu",
+    "model": "deepfake_efficientnet_model.pth",
+    "avg_confidence_real": 0.594,
+    "avg_confidence_fake": 0.6659
+  },
+  "results": [
+    {
+      "filename": "0000.png",
+      "probability": 0.6645,
+      "classification": "FAKE",
+      "confidence": 0.6645
+    },
+    {
+      "filename": "0001.png",
+      "probability": 0.6653,
+      "classification": "FAKE",
+      "confidence": 0.6653
+    },
+    {
+      "filename": "0002.png",
+      "probability": 0.6778,
+      "classification": "FAKE",
+      "confidence": 0.6778
+    },
+    {
+      "filename": "0003.png",
+      "probability": 0.7675,
+      "classification": "FAKE",
+      "confidence": 0.7675
+    },
+    {
+      "filename": "0004.png",
+      "probability": 0.6408,
+      "classification": "FAKE",
+      "confidence": 0.6408
+    },
+    {
+      "filename": "0005.png",
+      "probability": 0.7086,
+      "classification": "FAKE",
+      "confidence": 0.7086
+    },
+    {
+      "filename": "0006.png",
+      "probability": 0.6657,
+      "classification": "FAKE",
+      "confidence": 0.6657
+    },
+    {
+      "filename": "0007.png",
+      "probability": 0.5922,
+      "classification": "FAKE",
+      "confidence": 0.5922
+    },
+    {
+      "filename": "0008.png",
+      "probability": 0.5734,
+      "classification": "FAKE",
+      "confidence": 0.5734
+    },
+    {
+      "filename": "0009.png",
+      "probability": 0.7265,
+      "classification": "FAKE",
+      "confidence": 0.7265
+    },
+    {
+      "filename": "0010.png",
+      "probability": 0.6278,
+      "classification": "FAKE",
+      "confidence": 0.6278
+    },
+    {
+      "filename": "0011.png",
+      "probability": 0.7243,
+      "classification": "FAKE",
+      "confidence": 0.7243
+    },
+    {
+      "filename": "0012.png",
+      "probability": 0.5193,
+      "classification": "FAKE",
+      "confidence": 0.5193
+    },
+    {
+      "filename": "0013.png",
+      "probability": 0.5499,
+      "classification": "FAKE",
+      "confidence": 0.5499
+    },
+    {
+      "filename": "0014.png",
+      "probability": 0.5321,
+      "classification": "FAKE",
+      "confidence": 0.5321
+    },
+    {
+      "filename": "0015.png",
+      "probability": 0.7603,
+      "classification": "FAKE",
+      "confidence": 0.7603
+    },
+    {
+      "filename": "0016.png",
+      "probability": 0.6092,
+      "classification": "FAKE",
+      "confidence": 0.6092
+    },
+    {
+      "filename": "0017.png",
+      "probability": 0.7276,
+      "classification": "FAKE",
+      "confidence": 0.7276
+    },
+    {
+      "filename": "0018.png",
+      "probability": 0.4878,
+      "classification": "REAL",
+      "confidence": 0.5122
+    },
+    {
+      "filename": "0019.png",
+      "probability": 0.6383,
+      "classification": "FAKE",
+      "confidence": 0.6383
+    },
+    {
+      "filename": "0020.png",
+      "probability": 0.6633,
+      "classification": "FAKE",
+      "confidence": 0.6633
+    },
+    {
+      "filename": "0021.png",
+      "probability": 0.7285,
+      "classification": "FAKE",
+      "confidence": 0.7285
+    },
+    {
+      "filename": "0022.png",
+      "probability": 0.6753,
+      "classification": "FAKE",
+      "confidence": 0.6753
+    },
+    {
+      "filename": "0023.png",
+      "probability": 0.5941,
+      "classification": "FAKE",
+      "confidence": 0.5941
+    },
+    {
+      "filename": "0024.png",
+      "probability": 0.6632,
+      "classification": "FAKE",
+      "confidence": 0.6632
+    },
+    {
+      "filename": "0025.png",
+      "probability": 0.6923,
+      "classification": "FAKE",
+      "confidence": 0.6923
+    },
+    {
+      "filename": "0026.png",
+      "probability": 0.5579,
+      "classification": "FAKE",
+      "confidence": 0.5579
+    },
+    {
+      "filename": "0027.png",
+      "probability": 0.7646,
+      "classification": "FAKE",
+      "confidence": 0.7646
+    },
+    {
+      "filename": "0028.png",
+      "probability": 0.6755,
+      "classification": "FAKE",
+      "confidence": 0.6755
+    },
+    {
+      "filename": "0029.png",
+      "probability": 0.6439,
+      "classification": "FAKE",
+      "confidence": 0.6439
+    },
+    {
+      "filename": "0030.png",
+      "probability": 0.6141,
+      "classification": "FAKE",
+      "confidence": 0.6141
+    },
+    {
+      "filename": "0031.png",
+      "probability": 0.8349,
+      "classification": "FAKE",
+      "confidence": 0.8349
+    },
+    {
+      "filename": "0032.png",
+      "probability": 0.7709,
+      "classification": "FAKE",
+      "confidence": 0.7709
+    },
+    {
+      "filename": "0033.png",
+      "probability": 0.571,
+      "classification": "FAKE",
+      "confidence": 0.571
+    },
+    {
+      "filename": "0034.png",
+      "probability": 0.5956,
+      "classification": "FAKE",
+      "confidence": 0.5956
+    },
+    {
+      "filename": "0035.png",
+      "probability": 0.7554,
+      "classification": "FAKE",
+      "confidence": 0.7554
+    },
+    {
+      "filename": "0036.png",
+      "probability": 0.4563,
+      "classification": "REAL",
+      "confidence": 0.5437
+    },
+    {
+      "filename": "0037.png",
+      "probability": 0.5397,
+      "classification": "FAKE",
+      "confidence": 0.5397
+    },
+    {
+      "filename": "0038.png",
+      "probability": 0.69,
+      "classification": "FAKE",
+      "confidence": 0.69
+    },
+    {
+      "filename": "0039.png",
+      "probability": 0.4967,
+      "classification": "REAL",
+      "confidence": 0.5033
+    },
+    {
+      "filename": "0040.png",
+      "probability": 0.8552,
+      "classification": "FAKE",
+      "confidence": 0.8552
+    },
+    {
+      "filename": "0041.png",
+      "probability": 0.5979,
+      "classification": "FAKE",
+      "confidence": 0.5979
+    },
+    {
+      "filename": "0042.png",
+      "probability": 0.7643,
+      "classification": "FAKE",
+      "confidence": 0.7643
+    },
+    {
+      "filename": "0043.png",
+      "probability": 0.7068,
+      "classification": "FAKE",
+      "confidence": 0.7068
+    },
+    {
+      "filename": "0044.png",
+      "probability": 0.5111,
+      "classification": "FAKE",
+      "confidence": 0.5111
+    },
+    {
+      "filename": "0045.png",
+      "probability": 0.6116,
+      "classification": "FAKE",
+      "confidence": 0.6116
+    },
+    {
+      "filename": "0046.png",
+      "probability": 0.7402,
+      "classification": "FAKE",
+      "confidence": 0.7402
+    },
+    {
+      "filename": "0047.png",
+      "probability": 0.5976,
+      "classification": "FAKE",
+      "confidence": 0.5976
+    },
+    {
+      "filename": "0048.png",
+      "probability": 0.7895,
+      "classification": "FAKE",
+      "confidence": 0.7895
+    },
+    {
+      "filename": "0049.png",
+      "probability": 0.6069,
+      "classification": "FAKE",
+      "confidence": 0.6069
+    },
+    {
+      "filename": "0050.png",
+      "probability": 0.7061,
+      "classification": "FAKE",
+      "confidence": 0.7061
+    },
+    {
+      "filename": "0051.png",
+      "probability": 0.5462,
+      "classification": "FAKE",
+      "confidence": 0.5462
+    },
+    {
+      "filename": "0052.png",
+      "probability": 0.5879,
+      "classification": "FAKE",
+      "confidence": 0.5879
+    },
+    {
+      "filename": "0053.png",
+      "probability": 0.7353,
+      "classification": "FAKE",
+      "confidence": 0.7353
+    },
+    {
+      "filename": "0054.png",
+      "probability": 0.8039,
+      "classification": "FAKE",
+      "confidence": 0.8039
+    },
+    {
+      "filename": "0055.png",
+      "probability": 0.5881,
+      "classification": "FAKE",
+      "confidence": 0.5881
+    },
+    {
+      "filename": "0056.png",
+      "probability": 0.6708,
+      "classification": "FAKE",
+      "confidence": 0.6708
+    },
+    {
+      "filename": "0057.png",
+      "probability": 0.5988,
+      "classification": "FAKE",
+      "confidence": 0.5988
+    },
+    {
+      "filename": "0058.png",
+      "probability": 0.8636,
+      "classification": "FAKE",
+      "confidence": 0.8636
+    },
+    {
+      "filename": "0059.png",
+      "probability": 0.3709,
+      "classification": "REAL",
+      "confidence": 0.6291
+    },
+    {
+      "filename": "0060.png",
+      "probability": 0.7448,
+      "classification": "FAKE",
+      "confidence": 0.7448
+    },
+    {
+      "filename": "0061.png",
+      "probability": 0.4832,
+      "classification": "REAL",
+      "confidence": 0.5168
+    },
+    {
+      "filename": "0062.png",
+      "probability": 0.644,
+      "classification": "FAKE",
+      "confidence": 0.644
+    },
+    {
+      "filename": "0063.png",
+      "probability": 0.6126,
+      "classification": "FAKE",
+      "confidence": 0.6126
+    },
+    {
+      "filename": "0064.png",
+      "probability": 0.7048,
+      "classification": "FAKE",
+      "confidence": 0.7048
+    },
+    {
+      "filename": "0065.png",
+      "probability": 0.7648,
+      "classification": "FAKE",
+      "confidence": 0.7648
+    },
+    {
+      "filename": "0066.png",
+      "probability": 0.855,
+      "classification": "FAKE",
+      "confidence": 0.855
+    },
+    {
+      "filename": "0067.png",
+      "probability": 0.8324,
+      "classification": "FAKE",
+      "confidence": 0.8324
+    },
+    {
+      "filename": "0068.png",
+      "probability": 0.6196,
+      "classification": "FAKE",
+      "confidence": 0.6196
+    },
+    {
+      "filename": "0069.png",
+      "probability": 0.7211,
+      "classification": "FAKE",
+      "confidence": 0.7211
+    },
+    {
+      "filename": "0070.png",
+      "probability": 0.5518,
+      "classification": "FAKE",
+      "confidence": 0.5518
+    },
+    {
+      "filename": "0071.png",
+      "probability": 0.7131,
+      "classification": "FAKE",
+      "confidence": 0.7131
+    },
+    {
+      "filename": "0072.png",
+      "probability": 0.3929,
+      "classification": "REAL",
+      "confidence": 0.6071
+    },
+    {
+      "filename": "0073.png",
+      "probability": 0.6589,
+      "classification": "FAKE",
+      "confidence": 0.6589
+    },
+    {
+      "filename": "0074.png",
+      "probability": 0.8421,
+      "classification": "FAKE",
+      "confidence": 0.8421
+    },
+    {
+      "filename": "0075.png",
+      "probability": 0.6943,
+      "classification": "FAKE",
+      "confidence": 0.6943
+    },
+    {
+      "filename": "0076.png",
+      "probability": 0.7686,
+      "classification": "FAKE",
+      "confidence": 0.7686
+    },
+    {
+      "filename": "0077.png",
+      "probability": 0.6537,
+      "classification": "FAKE",
+      "confidence": 0.6537
+    },
+    {
+      "filename": "0078.png",
+      "probability": 0.7325,
+      "classification": "FAKE",
+      "confidence": 0.7325
+    },
+    {
+      "filename": "0079.png",
+      "probability": 0.544,
+      "classification": "FAKE",
+      "confidence": 0.544
+    },
+    {
+      "filename": "0080.png",
+      "probability": 0.7772,
+      "classification": "FAKE",
+      "confidence": 0.7772
+    },
+    {
+      "filename": "0081.png",
+      "probability": 0.6242,
+      "classification": "FAKE",
+      "confidence": 0.6242
+    },
+    {
+      "filename": "0082.png",
+      "probability": 0.718,
+      "classification": "FAKE",
+      "confidence": 0.718
+    },
+    {
+      "filename": "0083.png",
+      "probability": 0.7357,
+      "classification": "FAKE",
+      "confidence": 0.7357
+    },
+    {
+      "filename": "0084.png",
+      "probability": 0.5139,
+      "classification": "FAKE",
+      "confidence": 0.5139
+    },
+    {
+      "filename": "0085.png",
+      "probability": 0.5158,
+      "classification": "FAKE",
+      "confidence": 0.5158
+    },
+    {
+      "filename": "0086.png",
+      "probability": 0.5372,
+      "classification": "FAKE",
+      "confidence": 0.5372
+    },
+    {
+      "filename": "0087.png",
+      "probability": 0.7147,
+      "classification": "FAKE",
+      "confidence": 0.7147
+    },
+    {
+      "filename": "0088.png",
+      "probability": 0.7173,
+      "classification": "FAKE",
+      "confidence": 0.7173
+    },
+    {
+      "filename": "0089.png",
+      "probability": 0.724,
+      "classification": "FAKE",
+      "confidence": 0.724
+    },
+    {
+      "filename": "0090.png",
+      "probability": 0.6444,
+      "classification": "FAKE",
+      "confidence": 0.6444
+    },
+    {
+      "filename": "0091.png",
+      "probability": 0.6842,
+      "classification": "FAKE",
+      "confidence": 0.6842
+    },
+    {
+      "filename": "0092.png",
+      "probability": 0.6237,
+      "classification": "FAKE",
+      "confidence": 0.6237
+    },
+    {
+      "filename": "0093.png",
+      "probability": 0.664,
+      "classification": "FAKE",
+      "confidence": 0.664
+    },
+    {
+      "filename": "0094.png",
+      "probability": 0.8289,
+      "classification": "FAKE",
+      "confidence": 0.8289
+    },
+    {
+      "filename": "0095.png",
+      "probability": 0.7443,
+      "classification": "FAKE",
+      "confidence": 0.7443
+    },
+    {
+      "filename": "0096.png",
+      "probability": 0.6035,
+      "classification": "FAKE",
+      "confidence": 0.6035
+    },
+    {
+      "filename": "0097.png",
+      "probability": 0.5773,
+      "classification": "FAKE",
+      "confidence": 0.5773
+    },
+    {
+      "filename": "0098.png",
+      "probability": 0.7252,
+      "classification": "FAKE",
+      "confidence": 0.7252
+    },
+    {
+      "filename": "0099.png",
+      "probability": 0.6235,
+      "classification": "FAKE",
+      "confidence": 0.6235
+    },
+    {
+      "filename": "0100.png",
+      "probability": 0.5487,
+      "classification": "FAKE",
+      "confidence": 0.5487
+    },
+    {
+      "filename": "0101.png",
+      "probability": 0.5986,
+      "classification": "FAKE",
+      "confidence": 0.5986
+    },
+    {
+      "filename": "0102.png",
+      "probability": 0.6876,
+      "classification": "FAKE",
+      "confidence": 0.6876
+    },
+    {
+      "filename": "0103.png",
+      "probability": 0.5362,
+      "classification": "FAKE",
+      "confidence": 0.5362
+    },
+    {
+      "filename": "0104.png",
+      "probability": 0.6655,
+      "classification": "FAKE",
+      "confidence": 0.6655
+    },
+    {
+      "filename": "0105.png",
+      "probability": 0.8362,
+      "classification": "FAKE",
+      "confidence": 0.8362
+    },
+    {
+      "filename": "0106.png",
+      "probability": 0.6428,
+      "classification": "FAKE",
+      "confidence": 0.6428
+    },
+    {
+      "filename": "0107.png",
+      "probability": 0.6904,
+      "classification": "FAKE",
+      "confidence": 0.6904
+    },
+    {
+      "filename": "0108.png",
+      "probability": 0.3768,
+      "classification": "REAL",
+      "confidence": 0.6232
+    },
+    {
+      "filename": "0109.png",
+      "probability": 0.8277,
+      "classification": "FAKE",
+      "confidence": 0.8277
+    },
+    {
+      "filename": "0110.png",
+      "probability": 0.6902,
+      "classification": "FAKE",
+      "confidence": 0.6902
+    },
+    {
+      "filename": "0111.png",
+      "probability": 0.5381,
+      "classification": "FAKE",
+      "confidence": 0.5381
+    },
+    {
+      "filename": "0112.png",
+      "probability": 0.7121,
+      "classification": "FAKE",
+      "confidence": 0.7121
+    },
+    {
+      "filename": "0113.png",
+      "probability": 0.7368,
+      "classification": "FAKE",
+      "confidence": 0.7368
+    },
+    {
+      "filename": "0114.png",
+      "probability": 0.4765,
+      "classification": "REAL",
+      "confidence": 0.5235
+    },
+    {
+      "filename": "0115.png",
+      "probability": 0.2038,
+      "classification": "REAL",
+      "confidence": 0.7962
+    },
+    {
+      "filename": "0116.png",
+      "probability": 0.5402,
+      "classification": "FAKE",
+      "confidence": 0.5402
+    },
+    {
+      "filename": "0117.png",
+      "probability": 0.4919,
+      "classification": "REAL",
+      "confidence": 0.5081
+    },
+    {
+      "filename": "0118.png",
+      "probability": 0.6034,
+      "classification": "FAKE",
+      "confidence": 0.6034
+    },
+    {
+      "filename": "0119.png",
+      "probability": 0.7904,
+      "classification": "FAKE",
+      "confidence": 0.7904
+    },
+    {
+      "filename": "0120.png",
+      "probability": 0.8275,
+      "classification": "FAKE",
+      "confidence": 0.8275
+    },
+    {
+      "filename": "0121.png",
+      "probability": 0.5867,
+      "classification": "FAKE",
+      "confidence": 0.5867
+    },
+    {
+      "filename": "0122.png",
+      "probability": 0.5518,
+      "classification": "FAKE",
+      "confidence": 0.5518
+    },
+    {
+      "filename": "0123.png",
+      "probability": 0.7532,
+      "classification": "FAKE",
+      "confidence": 0.7532
+    },
+    {
+      "filename": "0124.png",
+      "probability": 0.3917,
+      "classification": "REAL",
+      "confidence": 0.6083
+    },
+    {
+      "filename": "0125.png",
+      "probability": 0.5917,
+      "classification": "FAKE",
+      "confidence": 0.5917
+    },
+    {
+      "filename": "0126.png",
+      "probability": 0.7037,
+      "classification": "FAKE",
+      "confidence": 0.7037
+    },
+    {
+      "filename": "0127.png",
+      "probability": 0.6536,
+      "classification": "FAKE",
+      "confidence": 0.6536
+    },
+    {
+      "filename": "0128.png",
+      "probability": 0.6559,
+      "classification": "FAKE",
+      "confidence": 0.6559
+    },
+    {
+      "filename": "0129.png",
+      "probability": 0.6844,
+      "classification": "FAKE",
+      "confidence": 0.6844
+    },
+    {
+      "filename": "0130.png",
+      "probability": 0.643,
+      "classification": "FAKE",
+      "confidence": 0.643
+    },
+    {
+      "filename": "0131.png",
+      "probability": 0.6891,
+      "classification": "FAKE",
+      "confidence": 0.6891
+    },
+    {
+      "filename": "0132.png",
+      "probability": 0.5653,
+      "classification": "FAKE",
+      "confidence": 0.5653
+    },
+    {
+      "filename": "0133.png",
+      "probability": 0.8229,
+      "classification": "FAKE",
+      "confidence": 0.8229
+    },
+    {
+      "filename": "0134.png",
+      "probability": 0.6119,
+      "classification": "FAKE",
+      "confidence": 0.6119
+    },
+    {
+      "filename": "0135.png",
+      "probability": 0.3845,
+      "classification": "REAL",
+      "confidence": 0.6155
+    },
+    {
+      "filename": "0136.png",
+      "probability": 0.7848,
+      "classification": "FAKE",
+      "confidence": 0.7848
+    },
+    {
+      "filename": "0137.png",
+      "probability": 0.6412,
+      "classification": "FAKE",
+      "confidence": 0.6412
+    },
+    {
+      "filename": "0138.png",
+      "probability": 0.7649,
+      "classification": "FAKE",
+      "confidence": 0.7649
+    },
+    {
+      "filename": "0139.png",
+      "probability": 0.3521,
+      "classification": "REAL",
+      "confidence": 0.6479
+    },
+    {
+      "filename": "0140.png",
+      "probability": 0.5876,
+      "classification": "FAKE",
+      "confidence": 0.5876
+    },
+    {
+      "filename": "0141.png",
+      "probability": 0.744,
+      "classification": "FAKE",
+      "confidence": 0.744
+    },
+    {
+      "filename": "0142.png",
+      "probability": 0.7346,
+      "classification": "FAKE",
+      "confidence": 0.7346
+    },
+    {
+      "filename": "0143.png",
+      "probability": 0.6387,
+      "classification": "FAKE",
+      "confidence": 0.6387
+    },
+    {
+      "filename": "0144.png",
+      "probability": 0.6986,
+      "classification": "FAKE",
+      "confidence": 0.6986
+    },
+    {
+      "filename": "0145.png",
+      "probability": 0.3743,
+      "classification": "REAL",
+      "confidence": 0.6257
+    },
+    {
+      "filename": "0146.png",
+      "probability": 0.6768,
+      "classification": "FAKE",
+      "confidence": 0.6768
+    },
+    {
+      "filename": "0147.png",
+      "probability": 0.8025,
+      "classification": "FAKE",
+      "confidence": 0.8025
+    },
+    {
+      "filename": "0148.png",
+      "probability": 0.6084,
+      "classification": "FAKE",
+      "confidence": 0.6084
+    },
+    {
+      "filename": "0149.png",
+      "probability": 0.4656,
+      "classification": "REAL",
+      "confidence": 0.5344
+    },
+    {
+      "filename": "0150.png",
+      "probability": 0.5286,
+      "classification": "FAKE",
+      "confidence": 0.5286
+    },
+    {
+      "filename": "0151.png",
+      "probability": 0.6184,
+      "classification": "FAKE",
+      "confidence": 0.6184
+    },
+    {
+      "filename": "0152.png",
+      "probability": 0.6726,
+      "classification": "FAKE",
+      "confidence": 0.6726
+    },
+    {
+      "filename": "0153.png",
+      "probability": 0.5919,
+      "classification": "FAKE",
+      "confidence": 0.5919
+    },
+    {
+      "filename": "0154.png",
+      "probability": 0.6507,
+      "classification": "FAKE",
+      "confidence": 0.6507
+    },
+    {
+      "filename": "0155.png",
+      "probability": 0.6134,
+      "classification": "FAKE",
+      "confidence": 0.6134
+    },
+    {
+      "filename": "0156.png",
+      "probability": 0.6052,
+      "classification": "FAKE",
+      "confidence": 0.6052
+    },
+    {
+      "filename": "0157.png",
+      "probability": 0.5611,
+      "classification": "FAKE",
+      "confidence": 0.5611
+    },
+    {
+      "filename": "0158.png",
+      "probability": 0.4551,
+      "classification": "REAL",
+      "confidence": 0.5449
+    },
+    {
+      "filename": "0159.png",
+      "probability": 0.7073,
+      "classification": "FAKE",
+      "confidence": 0.7073
+    },
+    {
+      "filename": "0160.png",
+      "probability": 0.7194,
+      "classification": "FAKE",
+      "confidence": 0.7194
+    },
+    {
+      "filename": "0161.png",
+      "probability": 0.56,
+      "classification": "FAKE",
+      "confidence": 0.56
+    },
+    {
+      "filename": "0162.png",
+      "probability": 0.5897,
+      "classification": "FAKE",
+      "confidence": 0.5897
+    },
+    {
+      "filename": "0163.png",
+      "probability": 0.7291,
+      "classification": "FAKE",
+      "confidence": 0.7291
+    },
+    {
+      "filename": "0164.png",
+      "probability": 0.701,
+      "classification": "FAKE",
+      "confidence": 0.701
+    },
+    {
+      "filename": "0165.png",
+      "probability": 0.5869,
+      "classification": "FAKE",
+      "confidence": 0.5869
+    },
+    {
+      "filename": "0166.png",
+      "probability": 0.7027,
+      "classification": "FAKE",
+      "confidence": 0.7027
+    },
+    {
+      "filename": "0167.png",
+      "probability": 0.5426,
+      "classification": "FAKE",
+      "confidence": 0.5426
+    },
+    {
+      "filename": "0168.png",
+      "probability": 0.749,
+      "classification": "FAKE",
+      "confidence": 0.749
+    },
+    {
+      "filename": "0169.png",
+      "probability": 0.5066,
+      "classification": "FAKE",
+      "confidence": 0.5066
+    },
+    {
+      "filename": "0170.png",
+      "probability": 0.5784,
+      "classification": "FAKE",
+      "confidence": 0.5784
+    },
+    {
+      "filename": "0171.png",
+      "probability": 0.8057,
+      "classification": "FAKE",
+      "confidence": 0.8057
+    },
+    {
+      "filename": "0172.png",
+      "probability": 0.5567,
+      "classification": "FAKE",
+      "confidence": 0.5567
+    },
+    {
+      "filename": "0173.png",
+      "probability": 0.7539,
+      "classification": "FAKE",
+      "confidence": 0.7539
+    },
+    {
+      "filename": "0174.png",
+      "probability": 0.4338,
+      "classification": "REAL",
+      "confidence": 0.5662
+    },
+    {
+      "filename": "0175.png",
+      "probability": 0.6964,
+      "classification": "FAKE",
+      "confidence": 0.6964
+    },
+    {
+      "filename": "0176.png",
+      "probability": 0.6202,
+      "classification": "FAKE",
+      "confidence": 0.6202
+    },
+    {
+      "filename": "0177.png",
+      "probability": 0.6834,
+      "classification": "FAKE",
+      "confidence": 0.6834
+    },
+    {
+      "filename": "0178.png",
+      "probability": 0.6595,
+      "classification": "FAKE",
+      "confidence": 0.6595
+    },
+    {
+      "filename": "0179.png",
+      "probability": 0.7263,
+      "classification": "FAKE",
+      "confidence": 0.7263
+    },
+    {
+      "filename": "0180.png",
+      "probability": 0.6554,
+      "classification": "FAKE",
+      "confidence": 0.6554
+    },
+    {
+      "filename": "0181.png",
+      "probability": 0.5759,
+      "classification": "FAKE",
+      "confidence": 0.5759
+    },
+    {
+      "filename": "0182.png",
+      "probability": 0.6858,
+      "classification": "FAKE",
+      "confidence": 0.6858
+    },
+    {
+      "filename": "0183.png",
+      "probability": 0.6953,
+      "classification": "FAKE",
+      "confidence": 0.6953
+    },
+    {
+      "filename": "0184.png",
+      "probability": 0.8041,
+      "classification": "FAKE",
+      "confidence": 0.8041
+    },
+    {
+      "filename": "0185.png",
+      "probability": 0.7028,
+      "classification": "FAKE",
+      "confidence": 0.7028
+    },
+    {
+      "filename": "0186.png",
+      "probability": 0.7425,
+      "classification": "FAKE",
+      "confidence": 0.7425
+    },
+    {
+      "filename": "0187.png",
+      "probability": 0.5875,
+      "classification": "FAKE",
+      "confidence": 0.5875
+    },
+    {
+      "filename": "0188.png",
+      "probability": 0.6925,
+      "classification": "FAKE",
+      "confidence": 0.6925
+    },
+    {
+      "filename": "0189.png",
+      "probability": 0.5736,
+      "classification": "FAKE",
+      "confidence": 0.5736
+    },
+    {
+      "filename": "0190.png",
+      "probability": 0.697,
+      "classification": "FAKE",
+      "confidence": 0.697
+    },
+    {
+      "filename": "0191.png",
+      "probability": 0.6765,
+      "classification": "FAKE",
+      "confidence": 0.6765
+    },
+    {
+      "filename": "0192.png",
+      "probability": 0.6907,
+      "classification": "FAKE",
+      "confidence": 0.6907
+    },
+    {
+      "filename": "0193.png",
+      "probability": 0.3917,
+      "classification": "REAL",
+      "confidence": 0.6083
+    },
+    {
+      "filename": "0194.png",
+      "probability": 0.675,
+      "classification": "FAKE",
+      "confidence": 0.675
+    },
+    {
+      "filename": "0195.png",
+      "probability": 0.5106,
+      "classification": "FAKE",
+      "confidence": 0.5106
+    },
+    {
+      "filename": "0196.png",
+      "probability": 0.7709,
+      "classification": "FAKE",
+      "confidence": 0.7709
+    },
+    {
+      "filename": "0197.png",
+      "probability": 0.7796,
+      "classification": "FAKE",
+      "confidence": 0.7796
+    },
+    {
+      "filename": "0198.png",
+      "probability": 0.7232,
+      "classification": "FAKE",
+      "confidence": 0.7232
+    },
+    {
+      "filename": "0199.png",
+      "probability": 0.614,
+      "classification": "FAKE",
+      "confidence": 0.614
+    },
+    {
+      "filename": "0200.png",
+      "probability": 0.6262,
+      "classification": "FAKE",
+      "confidence": 0.6262
+    },
+    {
+      "filename": "0201.png",
+      "probability": 0.41,
+      "classification": "REAL",
+      "confidence": 0.59
+    },
+    {
+      "filename": "0202.png",
+      "probability": 0.6395,
+      "classification": "FAKE",
+      "confidence": 0.6395
+    },
+    {
+      "filename": "0203.png",
+      "probability": 0.8101,
+      "classification": "FAKE",
+      "confidence": 0.8101
+    },
+    {
+      "filename": "0204.png",
+      "probability": 0.5441,
+      "classification": "FAKE",
+      "confidence": 0.5441
+    },
+    {
+      "filename": "0205.png",
+      "probability": 0.8727,
+      "classification": "FAKE",
+      "confidence": 0.8727
+    },
+    {
+      "filename": "0206.png",
+      "probability": 0.7324,
+      "classification": "FAKE",
+      "confidence": 0.7324
+    },
+    {
+      "filename": "0207.png",
+      "probability": 0.6757,
+      "classification": "FAKE",
+      "confidence": 0.6757
+    },
+    {
+      "filename": "0208.png",
+      "probability": 0.6825,
+      "classification": "FAKE",
+      "confidence": 0.6825
+    },
+    {
+      "filename": "0209.png",
+      "probability": 0.6631,
+      "classification": "FAKE",
+      "confidence": 0.6631
+    },
+    {
+      "filename": "0210.png",
+      "probability": 0.7583,
+      "classification": "FAKE",
+      "confidence": 0.7583
+    },
+    {
+      "filename": "0211.png",
+      "probability": 0.5621,
+      "classification": "FAKE",
+      "confidence": 0.5621
+    },
+    {
+      "filename": "0212.png",
+      "probability": 0.7508,
+      "classification": "FAKE",
+      "confidence": 0.7508
+    },
+    {
+      "filename": "0213.png",
+      "probability": 0.756,
+      "classification": "FAKE",
+      "confidence": 0.756
+    },
+    {
+      "filename": "0214.png",
+      "probability": 0.7591,
+      "classification": "FAKE",
+      "confidence": 0.7591
+    },
+    {
+      "filename": "0215.png",
+      "probability": 0.7196,
+      "classification": "FAKE",
+      "confidence": 0.7196
+    },
+    {
+      "filename": "0216.png",
+      "probability": 0.5687,
+      "classification": "FAKE",
+      "confidence": 0.5687
+    },
+    {
+      "filename": "0217.png",
+      "probability": 0.5009,
+      "classification": "FAKE",
+      "confidence": 0.5009
+    },
+    {
+      "filename": "0218.png",
+      "probability": 0.7982,
+      "classification": "FAKE",
+      "confidence": 0.7982
+    },
+    {
+      "filename": "0219.png",
+      "probability": 0.6314,
+      "classification": "FAKE",
+      "confidence": 0.6314
+    },
+    {
+      "filename": "0220.png",
+      "probability": 0.7675,
+      "classification": "FAKE",
+      "confidence": 0.7675
+    },
+    {
+      "filename": "0221.png",
+      "probability": 0.531,
+      "classification": "FAKE",
+      "confidence": 0.531
+    },
+    {
+      "filename": "0222.png",
+      "probability": 0.6278,
+      "classification": "FAKE",
+      "confidence": 0.6278
+    },
+    {
+      "filename": "0223.png",
+      "probability": 0.6251,
+      "classification": "FAKE",
+      "confidence": 0.6251
+    },
+    {
+      "filename": "0224.png",
+      "probability": 0.8212,
+      "classification": "FAKE",
+      "confidence": 0.8212
+    },
+    {
+      "filename": "0225.png",
+      "probability": 0.639,
+      "classification": "FAKE",
+      "confidence": 0.639
+    },
+    {
+      "filename": "0226.png",
+      "probability": 0.6312,
+      "classification": "FAKE",
+      "confidence": 0.6312
+    },
+    {
+      "filename": "0227.png",
+      "probability": 0.6815,
+      "classification": "FAKE",
+      "confidence": 0.6815
+    },
+    {
+      "filename": "0228.png",
+      "probability": 0.6957,
+      "classification": "FAKE",
+      "confidence": 0.6957
+    },
+    {
+      "filename": "0229.png",
+      "probability": 0.6103,
+      "classification": "FAKE",
+      "confidence": 0.6103
+    },
+    {
+      "filename": "0230.png",
+      "probability": 0.6823,
+      "classification": "FAKE",
+      "confidence": 0.6823
+    },
+    {
+      "filename": "0231.png",
+      "probability": 0.5733,
+      "classification": "FAKE",
+      "confidence": 0.5733
+    },
+    {
+      "filename": "0232.png",
+      "probability": 0.6597,
+      "classification": "FAKE",
+      "confidence": 0.6597
+    },
+    {
+      "filename": "0233.png",
+      "probability": 0.6542,
+      "classification": "FAKE",
+      "confidence": 0.6542
+    },
+    {
+      "filename": "0234.png",
+      "probability": 0.6366,
+      "classification": "FAKE",
+      "confidence": 0.6366
+    },
+    {
+      "filename": "0235.png",
+      "probability": 0.5745,
+      "classification": "FAKE",
+      "confidence": 0.5745
+    },
+    {
+      "filename": "0236.png",
+      "probability": 0.7266,
+      "classification": "FAKE",
+      "confidence": 0.7266
+    },
+    {
+      "filename": "0237.png",
+      "probability": 0.7091,
+      "classification": "FAKE",
+      "confidence": 0.7091
+    },
+    {
+      "filename": "0238.png",
+      "probability": 0.6408,
+      "classification": "FAKE",
+      "confidence": 0.6408
+    },
+    {
+      "filename": "0239.png",
+      "probability": 0.6079,
+      "classification": "FAKE",
+      "confidence": 0.6079
+    },
+    {
+      "filename": "0240.png",
+      "probability": 0.7918,
+      "classification": "FAKE",
+      "confidence": 0.7918
+    },
+    {
+      "filename": "0241.png",
+      "probability": 0.6018,
+      "classification": "FAKE",
+      "confidence": 0.6018
+    },
+    {
+      "filename": "0242.png",
+      "probability": 0.6471,
+      "classification": "FAKE",
+      "confidence": 0.6471
+    },
+    {
+      "filename": "0243.png",
+      "probability": 0.6028,
+      "classification": "FAKE",
+      "confidence": 0.6028
+    },
+    {
+      "filename": "0244.png",
+      "probability": 0.637,
+      "classification": "FAKE",
+      "confidence": 0.637
+    },
+    {
+      "filename": "0245.png",
+      "probability": 0.7974,
+      "classification": "FAKE",
+      "confidence": 0.7974
+    },
+    {
+      "filename": "0246.png",
+      "probability": 0.4491,
+      "classification": "REAL",
+      "confidence": 0.5509
+    },
+    {
+      "filename": "0247.png",
+      "probability": 0.7954,
+      "classification": "FAKE",
+      "confidence": 0.7954
+    },
+    {
+      "filename": "0248.png",
+      "probability": 0.5553,
+      "classification": "FAKE",
+      "confidence": 0.5553
+    },
+    {
+      "filename": "0249.png",
+      "probability": 0.6657,
+      "classification": "FAKE",
+      "confidence": 0.6657
+    },
+    {
+      "filename": "0250.png",
+      "probability": 0.7289,
+      "classification": "FAKE",
+      "confidence": 0.7289
+    },
+    {
+      "filename": "0251.png",
+      "probability": 0.695,
+      "classification": "FAKE",
+      "confidence": 0.695
+    },
+    {
+      "filename": "0252.png",
+      "probability": 0.7371,
+      "classification": "FAKE",
+      "confidence": 0.7371
+    },
+    {
+      "filename": "0253.png",
+      "probability": 0.5409,
+      "classification": "FAKE",
+      "confidence": 0.5409
+    },
+    {
+      "filename": "0254.png",
+      "probability": 0.3998,
+      "classification": "REAL",
+      "confidence": 0.6002
+    },
+    {
+      "filename": "0255.png",
+      "probability": 0.3751,
+      "classification": "REAL",
+      "confidence": 0.6249
+    },
+    {
+      "filename": "0256.png",
+      "probability": 0.6438,
+      "classification": "FAKE",
+      "confidence": 0.6438
+    },
+    {
+      "filename": "0257.png",
+      "probability": 0.6579,
+      "classification": "FAKE",
+      "confidence": 0.6579
+    },
+    {
+      "filename": "0258.png",
+      "probability": 0.624,
+      "classification": "FAKE",
+      "confidence": 0.624
+    },
+    {
+      "filename": "0259.png",
+      "probability": 0.6979,
+      "classification": "FAKE",
+      "confidence": 0.6979
+    },
+    {
+      "filename": "0260.png",
+      "probability": 0.5389,
+      "classification": "FAKE",
+      "confidence": 0.5389
+    },
+    {
+      "filename": "0261.png",
+      "probability": 0.8062,
+      "classification": "FAKE",
+      "confidence": 0.8062
+    },
+    {
+      "filename": "0262.png",
+      "probability": 0.7984,
+      "classification": "FAKE",
+      "confidence": 0.7984
+    },
+    {
+      "filename": "0263.png",
+      "probability": 0.6844,
+      "classification": "FAKE",
+      "confidence": 0.6844
+    },
+    {
+      "filename": "0264.png",
+      "probability": 0.6143,
+      "classification": "FAKE",
+      "confidence": 0.6143
+    },
+    {
+      "filename": "0265.png",
+      "probability": 1.0,
+      "classification": "FAKE",
+      "confidence": 1.0
+    },
+    {
+      "filename": "0266.png",
+      "probability": 0.772,
+      "classification": "FAKE",
+      "confidence": 0.772
+    },
+    {
+      "filename": "0267.png",
+      "probability": 0.7253,
+      "classification": "FAKE",
+      "confidence": 0.7253
+    },
+    {
+      "filename": "0268.png",
+      "probability": 0.8317,
+      "classification": "FAKE",
+      "confidence": 0.8317
+    },
+    {
+      "filename": "0269.png",
+      "probability": 0.4324,
+      "classification": "REAL",
+      "confidence": 0.5676
+    },
+    {
+      "filename": "0270.png",
+      "probability": 0.7953,
+      "classification": "FAKE",
+      "confidence": 0.7953
+    },
+    {
+      "filename": "0271.png",
+      "probability": 0.6553,
+      "classification": "FAKE",
+      "confidence": 0.6553
+    },
+    {
+      "filename": "0272.png",
+      "probability": 0.7147,
+      "classification": "FAKE",
+      "confidence": 0.7147
+    },
+    {
+      "filename": "0273.png",
+      "probability": 0.5062,
+      "classification": "FAKE",
+      "confidence": 0.5062
+    },
+    {
+      "filename": "0274.png",
+      "probability": 0.4186,
+      "classification": "REAL",
+      "confidence": 0.5814
+    },
+    {
+      "filename": "0275.png",
+      "probability": 0.6156,
+      "classification": "FAKE",
+      "confidence": 0.6156
+    },
+    {
+      "filename": "0276.png",
+      "probability": 0.2845,
+      "classification": "REAL",
+      "confidence": 0.7155
+    },
+    {
+      "filename": "0277.png",
+      "probability": 0.6971,
+      "classification": "FAKE",
+      "confidence": 0.6971
+    },
+    {
+      "filename": "0278.png",
+      "probability": 0.5131,
+      "classification": "FAKE",
+      "confidence": 0.5131
+    },
+    {
+      "filename": "0279.png",
+      "probability": 0.6374,
+      "classification": "FAKE",
+      "confidence": 0.6374
+    },
+    {
+      "filename": "0280.png",
+      "probability": 0.5491,
+      "classification": "FAKE",
+      "confidence": 0.5491
+    },
+    {
+      "filename": "0281.png",
+      "probability": 0.0,
+      "classification": "REAL",
+      "confidence": 1.0
+    },
+    {
+      "filename": "0282.png",
+      "probability": 0.766,
+      "classification": "FAKE",
+      "confidence": 0.766
+    },
+    {
+      "filename": "0283.png",
+      "probability": 0.663,
+      "classification": "FAKE",
+      "confidence": 0.663
+    },
+    {
+      "filename": "0284.png",
+      "probability": 0.5555,
+      "classification": "FAKE",
+      "confidence": 0.5555
+    },
+    {
+      "filename": "0285.png",
+      "probability": 0.6992,
+      "classification": "FAKE",
+      "confidence": 0.6992
+    },
+    {
+      "filename": "0286.png",
+      "probability": 0.6531,
+      "classification": "FAKE",
+      "confidence": 0.6531
+    },
+    {
+      "filename": "0287.png",
+      "probability": 0.4694,
+      "classification": "REAL",
+      "confidence": 0.5306
+    },
+    {
+      "filename": "0288.png",
+      "probability": 0.723,
+      "classification": "FAKE",
+      "confidence": 0.723
+    },
+    {
+      "filename": "0289.png",
+      "probability": 0.8041,
+      "classification": "FAKE",
+      "confidence": 0.8041
+    },
+    {
+      "filename": "0290.png",
+      "probability": 0.6419,
+      "classification": "FAKE",
+      "confidence": 0.6419
+    },
+    {
+      "filename": "0291.png",
+      "probability": 0.6302,
+      "classification": "FAKE",
+      "confidence": 0.6302
+    },
+    {
+      "filename": "0292.png",
+      "probability": 0.5883,
+      "classification": "FAKE",
+      "confidence": 0.5883
+    },
+    {
+      "filename": "0293.png",
+      "probability": 0.3558,
+      "classification": "REAL",
+      "confidence": 0.6442
+    },
+    {
+      "filename": "0294.png",
+      "probability": 0.8036,
+      "classification": "FAKE",
+      "confidence": 0.8036
+    },
+    {
+      "filename": "0295.png",
+      "probability": 0.7053,
+      "classification": "FAKE",
+      "confidence": 0.7053
+    },
+    {
+      "filename": "0296.png",
+      "probability": 0.6926,
+      "classification": "FAKE",
+      "confidence": 0.6926
+    },
+    {
+      "filename": "0297.png",
+      "probability": 0.7037,
+      "classification": "FAKE",
+      "confidence": 0.7037
+    },
+    {
+      "filename": "0298.png",
+      "probability": 0.5776,
+      "classification": "FAKE",
+      "confidence": 0.5776
+    },
+    {
+      "filename": "0299.png",
+      "probability": 0.6705,
+      "classification": "FAKE",
+      "confidence": 0.6705
+    },
+    {
+      "filename": "0300.png",
+      "probability": 0.6118,
+      "classification": "FAKE",
+      "confidence": 0.6118
+    },
+    {
+      "filename": "0301.png",
+      "probability": 0.5138,
+      "classification": "FAKE",
+      "confidence": 0.5138
+    },
+    {
+      "filename": "0302.png",
+      "probability": 0.7359,
+      "classification": "FAKE",
+      "confidence": 0.7359
+    },
+    {
+      "filename": "0303.png",
+      "probability": 0.6827,
+      "classification": "FAKE",
+      "confidence": 0.6827
+    },
+    {
+      "filename": "0304.png",
+      "probability": 0.5482,
+      "classification": "FAKE",
+      "confidence": 0.5482
+    },
+    {
+      "filename": "0305.png",
+      "probability": 0.5234,
+      "classification": "FAKE",
+      "confidence": 0.5234
+    },
+    {
+      "filename": "0306.png",
+      "probability": 0.6626,
+      "classification": "FAKE",
+      "confidence": 0.6626
+    },
+    {
+      "filename": "0307.png",
+      "probability": 0.7462,
+      "classification": "FAKE",
+      "confidence": 0.7462
+    },
+    {
+      "filename": "0308.png",
+      "probability": 0.6769,
+      "classification": "FAKE",
+      "confidence": 0.6769
+    },
+    {
+      "filename": "0309.png",
+      "probability": 0.7591,
+      "classification": "FAKE",
+      "confidence": 0.7591
+    },
+    {
+      "filename": "0310.png",
+      "probability": 0.715,
+      "classification": "FAKE",
+      "confidence": 0.715
+    },
+    {
+      "filename": "0311.png",
+      "probability": 0.5937,
+      "classification": "FAKE",
+      "confidence": 0.5937
+    },
+    {
+      "filename": "0312.png",
+      "probability": 0.4683,
+      "classification": "REAL",
+      "confidence": 0.5317
+    },
+    {
+      "filename": "0313.png",
+      "probability": 0.585,
+      "classification": "FAKE",
+      "confidence": 0.585
+    },
+    {
+      "filename": "0314.png",
+      "probability": 0.8119,
+      "classification": "FAKE",
+      "confidence": 0.8119
+    },
+    {
+      "filename": "0315.png",
+      "probability": 0.8164,
+      "classification": "FAKE",
+      "confidence": 0.8164
+    },
+    {
+      "filename": "0316.png",
+      "probability": 0.5414,
+      "classification": "FAKE",
+      "confidence": 0.5414
+    },
+    {
+      "filename": "0317.png",
+      "probability": 0.4524,
+      "classification": "REAL",
+      "confidence": 0.5476
+    },
+    {
+      "filename": "0318.png",
+      "probability": 0.6845,
+      "classification": "FAKE",
+      "confidence": 0.6845
+    },
+    {
+      "filename": "0319.png",
+      "probability": 0.6239,
+      "classification": "FAKE",
+      "confidence": 0.6239
+    },
+    {
+      "filename": "0320.png",
+      "probability": 0.6449,
+      "classification": "FAKE",
+      "confidence": 0.6449
+    },
+    {
+      "filename": "0321.png",
+      "probability": 0.7451,
+      "classification": "FAKE",
+      "confidence": 0.7451
+    },
+    {
+      "filename": "0322.png",
+      "probability": 0.6122,
+      "classification": "FAKE",
+      "confidence": 0.6122
+    },
+    {
+      "filename": "0323.png",
+      "probability": 0.698,
+      "classification": "FAKE",
+      "confidence": 0.698
+    },
+    {
+      "filename": "0324.png",
+      "probability": 0.5505,
+      "classification": "FAKE",
+      "confidence": 0.5505
+    },
+    {
+      "filename": "0325.png",
+      "probability": 0.788,
+      "classification": "FAKE",
+      "confidence": 0.788
+    },
+    {
+      "filename": "0326.png",
+      "probability": 0.5655,
+      "classification": "FAKE",
+      "confidence": 0.5655
+    },
+    {
+      "filename": "0327.png",
+      "probability": 0.6019,
+      "classification": "FAKE",
+      "confidence": 0.6019
+    },
+    {
+      "filename": "0328.png",
+      "probability": 0.778,
+      "classification": "FAKE",
+      "confidence": 0.778
+    },
+    {
+      "filename": "0329.png",
+      "probability": 0.8293,
+      "classification": "FAKE",
+      "confidence": 0.8293
+    },
+    {
+      "filename": "0330.png",
+      "probability": 0.718,
+      "classification": "FAKE",
+      "confidence": 0.718
+    },
+    {
+      "filename": "0331.png",
+      "probability": 0.6596,
+      "classification": "FAKE",
+      "confidence": 0.6596
+    },
+    {
+      "filename": "0332.png",
+      "probability": 0.6972,
+      "classification": "FAKE",
+      "confidence": 0.6972
+    },
+    {
+      "filename": "0333.png",
+      "probability": 0.4688,
+      "classification": "REAL",
+      "confidence": 0.5312
+    },
+    {
+      "filename": "0334.png",
+      "probability": 0.6004,
+      "classification": "FAKE",
+      "confidence": 0.6004
+    },
+    {
+      "filename": "0335.png",
+      "probability": 0.4417,
+      "classification": "REAL",
+      "confidence": 0.5583
+    },
+    {
+      "filename": "0336.png",
+      "probability": 0.6511,
+      "classification": "FAKE",
+      "confidence": 0.6511
+    },
+    {
+      "filename": "0337.png",
+      "probability": 0.603,
+      "classification": "FAKE",
+      "confidence": 0.603
+    },
+    {
+      "filename": "0338.png",
+      "probability": 0.6555,
+      "classification": "FAKE",
+      "confidence": 0.6555
+    },
+    {
+      "filename": "0339.png",
+      "probability": 0.3592,
+      "classification": "REAL",
+      "confidence": 0.6408
+    },
+    {
+      "filename": "0340.png",
+      "probability": 0.7055,
+      "classification": "FAKE",
+      "confidence": 0.7055
+    },
+    {
+      "filename": "0341.png",
+      "probability": 0.6567,
+      "classification": "FAKE",
+      "confidence": 0.6567
+    },
+    {
+      "filename": "0342.png",
+      "probability": 0.6736,
+      "classification": "FAKE",
+      "confidence": 0.6736
+    },
+    {
+      "filename": "0343.png",
+      "probability": 0.8066,
+      "classification": "FAKE",
+      "confidence": 0.8066
+    },
+    {
+      "filename": "0344.png",
+      "probability": 0.6287,
+      "classification": "FAKE",
+      "confidence": 0.6287
+    },
+    {
+      "filename": "0345.png",
+      "probability": 0.6081,
+      "classification": "FAKE",
+      "confidence": 0.6081
+    },
+    {
+      "filename": "0346.png",
+      "probability": 0.7469,
+      "classification": "FAKE",
+      "confidence": 0.7469
+    },
+    {
+      "filename": "0347.png",
+      "probability": 0.7943,
+      "classification": "FAKE",
+      "confidence": 0.7943
+    },
+    {
+      "filename": "0348.png",
+      "probability": 0.8348,
+      "classification": "FAKE",
+      "confidence": 0.8348
+    },
+    {
+      "filename": "0349.png",
+      "probability": 0.6982,
+      "classification": "FAKE",
+      "confidence": 0.6982
+    },
+    {
+      "filename": "0350.png",
+      "probability": 0.6741,
+      "classification": "FAKE",
+      "confidence": 0.6741
+    },
+    {
+      "filename": "0351.png",
+      "probability": 0.6348,
+      "classification": "FAKE",
+      "confidence": 0.6348
+    },
+    {
+      "filename": "0352.png",
+      "probability": 0.8928,
+      "classification": "FAKE",
+      "confidence": 0.8928
+    },
+    {
+      "filename": "0353.png",
+      "probability": 0.7078,
+      "classification": "FAKE",
+      "confidence": 0.7078
+    },
+    {
+      "filename": "0354.png",
+      "probability": 0.7694,
+      "classification": "FAKE",
+      "confidence": 0.7694
+    },
+    {
+      "filename": "0355.png",
+      "probability": 0.6422,
+      "classification": "FAKE",
+      "confidence": 0.6422
+    },
+    {
+      "filename": "0356.png",
+      "probability": 0.3831,
+      "classification": "REAL",
+      "confidence": 0.6169
+    },
+    {
+      "filename": "0357.png",
+      "probability": 0.392,
+      "classification": "REAL",
+      "confidence": 0.608
+    },
+    {
+      "filename": "0358.png",
+      "probability": 0.0023,
+      "classification": "REAL",
+      "confidence": 0.9977
+    },
+    {
+      "filename": "0359.png",
+      "probability": 0.6248,
+      "classification": "FAKE",
+      "confidence": 0.6248
+    },
+    {
+      "filename": "0360.png",
+      "probability": 0.6894,
+      "classification": "FAKE",
+      "confidence": 0.6894
+    },
+    {
+      "filename": "0361.png",
+      "probability": 0.7193,
+      "classification": "FAKE",
+      "confidence": 0.7193
+    },
+    {
+      "filename": "0362.png",
+      "probability": 0.5058,
+      "classification": "FAKE",
+      "confidence": 0.5058
+    },
+    {
+      "filename": "0363.png",
+      "probability": 0.6459,
+      "classification": "FAKE",
+      "confidence": 0.6459
+    },
+    {
+      "filename": "0364.png",
+      "probability": 0.5691,
+      "classification": "FAKE",
+      "confidence": 0.5691
+    },
+    {
+      "filename": "0365.png",
+      "probability": 0.7178,
+      "classification": "FAKE",
+      "confidence": 0.7178
+    },
+    {
+      "filename": "0366.png",
+      "probability": 0.6001,
+      "classification": "FAKE",
+      "confidence": 0.6001
+    },
+    {
+      "filename": "0367.png",
+      "probability": 0.669,
+      "classification": "FAKE",
+      "confidence": 0.669
+    },
+    {
+      "filename": "0368.png",
+      "probability": 0.4915,
+      "classification": "REAL",
+      "confidence": 0.5085
+    },
+    {
+      "filename": "0369.png",
+      "probability": 0.5938,
+      "classification": "FAKE",
+      "confidence": 0.5938
+    },
+    {
+      "filename": "0370.png",
+      "probability": 0.6726,
+      "classification": "FAKE",
+      "confidence": 0.6726
+    },
+    {
+      "filename": "0371.png",
+      "probability": 0.4398,
+      "classification": "REAL",
+      "confidence": 0.5602
+    },
+    {
+      "filename": "0372.png",
+      "probability": 0.6278,
+      "classification": "FAKE",
+      "confidence": 0.6278
+    },
+    {
+      "filename": "0373.png",
+      "probability": 0.6484,
+      "classification": "FAKE",
+      "confidence": 0.6484
+    },
+    {
+      "filename": "0374.png",
+      "probability": 0.6709,
+      "classification": "FAKE",
+      "confidence": 0.6709
+    },
+    {
+      "filename": "0375.png",
+      "probability": 0.5275,
+      "classification": "FAKE",
+      "confidence": 0.5275
+    },
+    {
+      "filename": "0376.png",
+      "probability": 0.6971,
+      "classification": "FAKE",
+      "confidence": 0.6971
+    },
+    {
+      "filename": "0377.png",
+      "probability": 0.7288,
+      "classification": "FAKE",
+      "confidence": 0.7288
+    },
+    {
+      "filename": "0378.png",
+      "probability": 0.6864,
+      "classification": "FAKE",
+      "confidence": 0.6864
+    },
+    {
+      "filename": "0379.png",
+      "probability": 0.6686,
+      "classification": "FAKE",
+      "confidence": 0.6686
+    },
+    {
+      "filename": "0380.png",
+      "probability": 0.7552,
+      "classification": "FAKE",
+      "confidence": 0.7552
+    },
+    {
+      "filename": "0381.png",
+      "probability": 0.319,
+      "classification": "REAL",
+      "confidence": 0.681
+    },
+    {
+      "filename": "0382.png",
+      "probability": 0.5361,
+      "classification": "FAKE",
+      "confidence": 0.5361
+    },
+    {
+      "filename": "0383.png",
+      "probability": 0.792,
+      "classification": "FAKE",
+      "confidence": 0.792
+    },
+    {
+      "filename": "0384.png",
+      "probability": 0.7077,
+      "classification": "FAKE",
+      "confidence": 0.7077
+    },
+    {
+      "filename": "0385.png",
+      "probability": 0.6159,
+      "classification": "FAKE",
+      "confidence": 0.6159
+    },
+    {
+      "filename": "0386.png",
+      "probability": 0.6713,
+      "classification": "FAKE",
+      "confidence": 0.6713
+    },
+    {
+      "filename": "0387.png",
+      "probability": 0.6083,
+      "classification": "FAKE",
+      "confidence": 0.6083
+    },
+    {
+      "filename": "0388.png",
+      "probability": 0.6783,
+      "classification": "FAKE",
+      "confidence": 0.6783
+    },
+    {
+      "filename": "0389.png",
+      "probability": 0.5973,
+      "classification": "FAKE",
+      "confidence": 0.5973
+    },
+    {
+      "filename": "0390.png",
+      "probability": 0.6657,
+      "classification": "FAKE",
+      "confidence": 0.6657
+    },
+    {
+      "filename": "0391.png",
+      "probability": 0.6824,
+      "classification": "FAKE",
+      "confidence": 0.6824
+    },
+    {
+      "filename": "0392.png",
+      "probability": 0.6066,
+      "classification": "FAKE",
+      "confidence": 0.6066
+    },
+    {
+      "filename": "0393.png",
+      "probability": 0.6488,
+      "classification": "FAKE",
+      "confidence": 0.6488
+    },
+    {
+      "filename": "0394.png",
+      "probability": 0.5531,
+      "classification": "FAKE",
+      "confidence": 0.5531
+    },
+    {
+      "filename": "0395.png",
+      "probability": 0.6633,
+      "classification": "FAKE",
+      "confidence": 0.6633
+    },
+    {
+      "filename": "0396.png",
+      "probability": 0.5451,
+      "classification": "FAKE",
+      "confidence": 0.5451
+    },
+    {
+      "filename": "0397.png",
+      "probability": 0.6905,
+      "classification": "FAKE",
+      "confidence": 0.6905
+    },
+    {
+      "filename": "0398.png",
+      "probability": 0.6595,
+      "classification": "FAKE",
+      "confidence": 0.6595
+    },
+    {
+      "filename": "0399.png",
+      "probability": 0.704,
+      "classification": "FAKE",
+      "confidence": 0.704
+    },
+    {
+      "filename": "0400.png",
+      "probability": 0.6834,
+      "classification": "FAKE",
+      "confidence": 0.6834
+    },
+    {
+      "filename": "0401.png",
+      "probability": 0.6683,
+      "classification": "FAKE",
+      "confidence": 0.6683
+    },
+    {
+      "filename": "0402.png",
+      "probability": 0.5916,
+      "classification": "FAKE",
+      "confidence": 0.5916
+    },
+    {
+      "filename": "0403.png",
+      "probability": 0.8221,
+      "classification": "FAKE",
+      "confidence": 0.8221
+    },
+    {
+      "filename": "0404.png",
+      "probability": 0.5956,
+      "classification": "FAKE",
+      "confidence": 0.5956
+    },
+    {
+      "filename": "0405.png",
+      "probability": 0.5559,
+      "classification": "FAKE",
+      "confidence": 0.5559
+    },
+    {
+      "filename": "0406.png",
+      "probability": 0.6638,
+      "classification": "FAKE",
+      "confidence": 0.6638
+    },
+    {
+      "filename": "0407.png",
+      "probability": 0.5765,
+      "classification": "FAKE",
+      "confidence": 0.5765
+    },
+    {
+      "filename": "0408.png",
+      "probability": 0.7849,
+      "classification": "FAKE",
+      "confidence": 0.7849
+    },
+    {
+      "filename": "0409.png",
+      "probability": 0.4622,
+      "classification": "REAL",
+      "confidence": 0.5378
+    },
+    {
+      "filename": "0410.png",
+      "probability": 0.6154,
+      "classification": "FAKE",
+      "confidence": 0.6154
+    },
+    {
+      "filename": "0411.png",
+      "probability": 0.6907,
+      "classification": "FAKE",
+      "confidence": 0.6907
+    },
+    {
+      "filename": "0412.png",
+      "probability": 0.5446,
+      "classification": "FAKE",
+      "confidence": 0.5446
+    },
+    {
+      "filename": "0413.png",
+      "probability": 0.7435,
+      "classification": "FAKE",
+      "confidence": 0.7435
+    },
+    {
+      "filename": "0414.png",
+      "probability": 0.401,
+      "classification": "REAL",
+      "confidence": 0.599
+    },
+    {
+      "filename": "0415.png",
+      "probability": 0.7067,
+      "classification": "FAKE",
+      "confidence": 0.7067
+    },
+    {
+      "filename": "0416.png",
+      "probability": 0.6173,
+      "classification": "FAKE",
+      "confidence": 0.6173
+    },
+    {
+      "filename": "0417.png",
+      "probability": 0.5239,
+      "classification": "FAKE",
+      "confidence": 0.5239
+    },
+    {
+      "filename": "0418.png",
+      "probability": 0.7815,
+      "classification": "FAKE",
+      "confidence": 0.7815
+    },
+    {
+      "filename": "0419.png",
+      "probability": 0.3083,
+      "classification": "REAL",
+      "confidence": 0.6917
+    },
+    {
+      "filename": "0420.png",
+      "probability": 0.7906,
+      "classification": "FAKE",
+      "confidence": 0.7906
+    },
+    {
+      "filename": "0421.png",
+      "probability": 0.5563,
+      "classification": "FAKE",
+      "confidence": 0.5563
+    },
+    {
+      "filename": "0422.png",
+      "probability": 0.7255,
+      "classification": "FAKE",
+      "confidence": 0.7255
+    },
+    {
+      "filename": "0423.png",
+      "probability": 0.6661,
+      "classification": "FAKE",
+      "confidence": 0.6661
+    },
+    {
+      "filename": "0424.png",
+      "probability": 0.5751,
+      "classification": "FAKE",
+      "confidence": 0.5751
+    },
+    {
+      "filename": "0425.png",
+      "probability": 0.7181,
+      "classification": "FAKE",
+      "confidence": 0.7181
+    },
+    {
+      "filename": "0426.png",
+      "probability": 0.7033,
+      "classification": "FAKE",
+      "confidence": 0.7033
+    },
+    {
+      "filename": "0427.png",
+      "probability": 0.5208,
+      "classification": "FAKE",
+      "confidence": 0.5208
+    },
+    {
+      "filename": "0428.png",
+      "probability": 0.6975,
+      "classification": "FAKE",
+      "confidence": 0.6975
+    },
+    {
+      "filename": "0429.png",
+      "probability": 0.5474,
+      "classification": "FAKE",
+      "confidence": 0.5474
+    },
+    {
+      "filename": "0430.png",
+      "probability": 0.6238,
+      "classification": "FAKE",
+      "confidence": 0.6238
+    },
+    {
+      "filename": "0431.png",
+      "probability": 0.5412,
+      "classification": "FAKE",
+      "confidence": 0.5412
+    },
+    {
+      "filename": "0432.png",
+      "probability": 0.5542,
+      "classification": "FAKE",
+      "confidence": 0.5542
+    },
+    {
+      "filename": "0433.png",
+      "probability": 0.6525,
+      "classification": "FAKE",
+      "confidence": 0.6525
+    },
+    {
+      "filename": "0434.png",
+      "probability": 0.6867,
+      "classification": "FAKE",
+      "confidence": 0.6867
+    },
+    {
+      "filename": "0435.png",
+      "probability": 0.7286,
+      "classification": "FAKE",
+      "confidence": 0.7286
+    },
+    {
+      "filename": "0436.png",
+      "probability": 0.6568,
+      "classification": "FAKE",
+      "confidence": 0.6568
+    },
+    {
+      "filename": "0437.png",
+      "probability": 0.7873,
+      "classification": "FAKE",
+      "confidence": 0.7873
+    },
+    {
+      "filename": "0438.png",
+      "probability": 0.6786,
+      "classification": "FAKE",
+      "confidence": 0.6786
+    },
+    {
+      "filename": "0439.png",
+      "probability": 0.5796,
+      "classification": "FAKE",
+      "confidence": 0.5796
+    },
+    {
+      "filename": "0440.png",
+      "probability": 0.7126,
+      "classification": "FAKE",
+      "confidence": 0.7126
+    },
+    {
+      "filename": "0441.png",
+      "probability": 0.5814,
+      "classification": "FAKE",
+      "confidence": 0.5814
+    },
+    {
+      "filename": "0442.png",
+      "probability": 0.6235,
+      "classification": "FAKE",
+      "confidence": 0.6235
+    },
+    {
+      "filename": "0443.png",
+      "probability": 0.6807,
+      "classification": "FAKE",
+      "confidence": 0.6807
+    },
+    {
+      "filename": "0444.png",
+      "probability": 0.6493,
+      "classification": "FAKE",
+      "confidence": 0.6493
+    },
+    {
+      "filename": "0445.png",
+      "probability": 0.7081,
+      "classification": "FAKE",
+      "confidence": 0.7081
+    },
+    {
+      "filename": "0446.png",
+      "probability": 0.6443,
+      "classification": "FAKE",
+      "confidence": 0.6443
+    },
+    {
+      "filename": "0447.png",
+      "probability": 0.77,
+      "classification": "FAKE",
+      "confidence": 0.77
+    },
+    {
+      "filename": "0448.png",
+      "probability": 0.6755,
+      "classification": "FAKE",
+      "confidence": 0.6755
+    },
+    {
+      "filename": "0449.png",
+      "probability": 0.7804,
+      "classification": "FAKE",
+      "confidence": 0.7804
+    },
+    {
+      "filename": "0450.png",
+      "probability": 0.6388,
+      "classification": "FAKE",
+      "confidence": 0.6388
+    },
+    {
+      "filename": "0451.png",
+      "probability": 0.542,
+      "classification": "FAKE",
+      "confidence": 0.542
+    },
+    {
+      "filename": "0452.png",
+      "probability": 0.6395,
+      "classification": "FAKE",
+      "confidence": 0.6395
+    },
+    {
+      "filename": "0453.png",
+      "probability": 0.4092,
+      "classification": "REAL",
+      "confidence": 0.5908
+    },
+    {
+      "filename": "0454.png",
+      "probability": 0.4249,
+      "classification": "REAL",
+      "confidence": 0.5751
+    },
+    {
+      "filename": "0455.png",
+      "probability": 0.6397,
+      "classification": "FAKE",
+      "confidence": 0.6397
+    },
+    {
+      "filename": "0456.png",
+      "probability": 0.5828,
+      "classification": "FAKE",
+      "confidence": 0.5828
+    },
+    {
+      "filename": "0457.png",
+      "probability": 0.5573,
+      "classification": "FAKE",
+      "confidence": 0.5573
+    },
+    {
+      "filename": "0458.png",
+      "probability": 0.6871,
+      "classification": "FAKE",
+      "confidence": 0.6871
+    },
+    {
+      "filename": "0459.png",
+      "probability": 0.8557,
+      "classification": "FAKE",
+      "confidence": 0.8557
+    },
+    {
+      "filename": "0460.png",
+      "probability": 0.4855,
+      "classification": "REAL",
+      "confidence": 0.5145
+    },
+    {
+      "filename": "0461.png",
+      "probability": 0.6406,
+      "classification": "FAKE",
+      "confidence": 0.6406
+    },
+    {
+      "filename": "0462.png",
+      "probability": 0.7489,
+      "classification": "FAKE",
+      "confidence": 0.7489
+    },
+    {
+      "filename": "0463.png",
+      "probability": 0.5416,
+      "classification": "FAKE",
+      "confidence": 0.5416
+    },
+    {
+      "filename": "0464.png",
+      "probability": 0.5912,
+      "classification": "FAKE",
+      "confidence": 0.5912
+    },
+    {
+      "filename": "0465.png",
+      "probability": 0.7134,
+      "classification": "FAKE",
+      "confidence": 0.7134
+    },
+    {
+      "filename": "0466.png",
+      "probability": 0.6916,
+      "classification": "FAKE",
+      "confidence": 0.6916
+    },
+    {
+      "filename": "0467.png",
+      "probability": 0.5903,
+      "classification": "FAKE",
+      "confidence": 0.5903
+    },
+    {
+      "filename": "0468.png",
+      "probability": 0.5593,
+      "classification": "FAKE",
+      "confidence": 0.5593
+    },
+    {
+      "filename": "0469.png",
+      "probability": 0.6448,
+      "classification": "FAKE",
+      "confidence": 0.6448
+    },
+    {
+      "filename": "0470.png",
+      "probability": 0.664,
+      "classification": "FAKE",
+      "confidence": 0.664
+    },
+    {
+      "filename": "0471.png",
+      "probability": 0.3964,
+      "classification": "REAL",
+      "confidence": 0.6036
+    },
+    {
+      "filename": "0472.png",
+      "probability": 0.6587,
+      "classification": "FAKE",
+      "confidence": 0.6587
+    },
+    {
+      "filename": "0473.png",
+      "probability": 0.5467,
+      "classification": "FAKE",
+      "confidence": 0.5467
+    },
+    {
+      "filename": "0474.png",
+      "probability": 0.4059,
+      "classification": "REAL",
+      "confidence": 0.5941
+    },
+    {
+      "filename": "0475.png",
+      "probability": 0.6717,
+      "classification": "FAKE",
+      "confidence": 0.6717
+    },
+    {
+      "filename": "0476.png",
+      "probability": 0.3761,
+      "classification": "REAL",
+      "confidence": 0.6239
+    },
+    {
+      "filename": "0477.png",
+      "probability": 0.6924,
+      "classification": "FAKE",
+      "confidence": 0.6924
+    },
+    {
+      "filename": "0478.png",
+      "probability": 0.6885,
+      "classification": "FAKE",
+      "confidence": 0.6885
+    },
+    {
+      "filename": "0479.png",
+      "probability": 0.6442,
+      "classification": "FAKE",
+      "confidence": 0.6442
+    },
+    {
+      "filename": "0480.png",
+      "probability": 0.4656,
+      "classification": "REAL",
+      "confidence": 0.5344
+    },
+    {
+      "filename": "0481.png",
+      "probability": 0.6904,
+      "classification": "FAKE",
+      "confidence": 0.6904
+    },
+    {
+      "filename": "0482.png",
+      "probability": 0.8149,
+      "classification": "FAKE",
+      "confidence": 0.8149
+    },
+    {
+      "filename": "0483.png",
+      "probability": 0.6743,
+      "classification": "FAKE",
+      "confidence": 0.6743
+    },
+    {
+      "filename": "0484.png",
+      "probability": 0.678,
+      "classification": "FAKE",
+      "confidence": 0.678
+    },
+    {
+      "filename": "0485.png",
+      "probability": 0.5785,
+      "classification": "FAKE",
+      "confidence": 0.5785
+    },
+    {
+      "filename": "0486.png",
+      "probability": 0.5263,
+      "classification": "FAKE",
+      "confidence": 0.5263
+    },
+    {
+      "filename": "0487.png",
+      "probability": 0.6393,
+      "classification": "FAKE",
+      "confidence": 0.6393
+    },
+    {
+      "filename": "0488.png",
+      "probability": 0.522,
+      "classification": "FAKE",
+      "confidence": 0.522
+    },
+    {
+      "filename": "0489.png",
+      "probability": 0.5865,
+      "classification": "FAKE",
+      "confidence": 0.5865
+    },
+    {
+      "filename": "0490.png",
+      "probability": 0.6265,
+      "classification": "FAKE",
+      "confidence": 0.6265
+    },
+    {
+      "filename": "0491.png",
+      "probability": 0.6545,
+      "classification": "FAKE",
+      "confidence": 0.6545
+    },
+    {
+      "filename": "0492.png",
+      "probability": 0.6472,
+      "classification": "FAKE",
+      "confidence": 0.6472
+    },
+    {
+      "filename": "0493.png",
+      "probability": 0.6571,
+      "classification": "FAKE",
+      "confidence": 0.6571
+    },
+    {
+      "filename": "0494.png",
+      "probability": 0.7243,
+      "classification": "FAKE",
+      "confidence": 0.7243
+    },
+    {
+      "filename": "0495.png",
+      "probability": 0.7161,
+      "classification": "FAKE",
+      "confidence": 0.7161
+    },
+    {
+      "filename": "0496.png",
+      "probability": 0.5774,
+      "classification": "FAKE",
+      "confidence": 0.5774
+    },
+    {
+      "filename": "0497.png",
+      "probability": 0.5258,
+      "classification": "FAKE",
+      "confidence": 0.5258
+    },
+    {
+      "filename": "0498.png",
+      "probability": 0.3336,
+      "classification": "REAL",
+      "confidence": 0.6664
+    },
+    {
+      "filename": "0499.png",
+      "probability": 0.6943,
+      "classification": "FAKE",
+      "confidence": 0.6943
+    },
+    {
+      "filename": "0500.png",
+      "probability": 0.6819,
+      "classification": "FAKE",
+      "confidence": 0.6819
+    },
+    {
+      "filename": "0501.png",
+      "probability": 0.6341,
+      "classification": "FAKE",
+      "confidence": 0.6341
+    },
+    {
+      "filename": "0502.png",
+      "probability": 0.5761,
+      "classification": "FAKE",
+      "confidence": 0.5761
+    },
+    {
+      "filename": "0503.png",
+      "probability": 0.6165,
+      "classification": "FAKE",
+      "confidence": 0.6165
+    },
+    {
+      "filename": "0504.png",
+      "probability": 0.7603,
+      "classification": "FAKE",
+      "confidence": 0.7603
+    },
+    {
+      "filename": "0505.png",
+      "probability": 0.6617,
+      "classification": "FAKE",
+      "confidence": 0.6617
+    },
+    {
+      "filename": "0506.png",
+      "probability": 0.6743,
+      "classification": "FAKE",
+      "confidence": 0.6743
+    },
+    {
+      "filename": "0507.png",
+      "probability": 0.7405,
+      "classification": "FAKE",
+      "confidence": 0.7405
+    },
+    {
+      "filename": "0508.png",
+      "probability": 0.6166,
+      "classification": "FAKE",
+      "confidence": 0.6166
+    },
+    {
+      "filename": "0509.png",
+      "probability": 0.6781,
+      "classification": "FAKE",
+      "confidence": 0.6781
+    },
+    {
+      "filename": "0510.png",
+      "probability": 0.6122,
+      "classification": "FAKE",
+      "confidence": 0.6122
+    },
+    {
+      "filename": "0511.png",
+      "probability": 0.696,
+      "classification": "FAKE",
+      "confidence": 0.696
+    },
+    {
+      "filename": "0512.png",
+      "probability": 0.5904,
+      "classification": "FAKE",
+      "confidence": 0.5904
+    },
+    {
+      "filename": "0513.png",
+      "probability": 0.6581,
+      "classification": "FAKE",
+      "confidence": 0.6581
+    },
+    {
+      "filename": "0514.png",
+      "probability": 0.6606,
+      "classification": "FAKE",
+      "confidence": 0.6606
+    },
+    {
+      "filename": "0515.png",
+      "probability": 0.6803,
+      "classification": "FAKE",
+      "confidence": 0.6803
+    },
+    {
+      "filename": "0516.png",
+      "probability": 0.812,
+      "classification": "FAKE",
+      "confidence": 0.812
+    },
+    {
+      "filename": "0517.png",
+      "probability": 0.6683,
+      "classification": "FAKE",
+      "confidence": 0.6683
+    },
+    {
+      "filename": "0518.png",
+      "probability": 0.5593,
+      "classification": "FAKE",
+      "confidence": 0.5593
+    },
+    {
+      "filename": "0519.png",
+      "probability": 0.5909,
+      "classification": "FAKE",
+      "confidence": 0.5909
+    },
+    {
+      "filename": "0520.png",
+      "probability": 0.5913,
+      "classification": "FAKE",
+      "confidence": 0.5913
+    },
+    {
+      "filename": "0521.png",
+      "probability": 0.6311,
+      "classification": "FAKE",
+      "confidence": 0.6311
+    },
+    {
+      "filename": "0522.png",
+      "probability": 0.7247,
+      "classification": "FAKE",
+      "confidence": 0.7247
+    },
+    {
+      "filename": "0523.png",
+      "probability": 0.7823,
+      "classification": "FAKE",
+      "confidence": 0.7823
+    },
+    {
+      "filename": "0524.png",
+      "probability": 0.4758,
+      "classification": "REAL",
+      "confidence": 0.5242
+    },
+    {
+      "filename": "0525.png",
+      "probability": 0.6717,
+      "classification": "FAKE",
+      "confidence": 0.6717
+    },
+    {
+      "filename": "0526.png",
+      "probability": 0.5168,
+      "classification": "FAKE",
+      "confidence": 0.5168
+    },
+    {
+      "filename": "0527.png",
+      "probability": 0.6336,
+      "classification": "FAKE",
+      "confidence": 0.6336
+    },
+    {
+      "filename": "0528.png",
+      "probability": 0.7002,
+      "classification": "FAKE",
+      "confidence": 0.7002
+    },
+    {
+      "filename": "0529.png",
+      "probability": 0.6655,
+      "classification": "FAKE",
+      "confidence": 0.6655
+    },
+    {
+      "filename": "0530.png",
+      "probability": 0.5867,
+      "classification": "FAKE",
+      "confidence": 0.5867
+    },
+    {
+      "filename": "0531.png",
+      "probability": 0.5714,
+      "classification": "FAKE",
+      "confidence": 0.5714
+    },
+    {
+      "filename": "0532.png",
+      "probability": 0.6674,
+      "classification": "FAKE",
+      "confidence": 0.6674
+    },
+    {
+      "filename": "0533.png",
+      "probability": 0.729,
+      "classification": "FAKE",
+      "confidence": 0.729
+    },
+    {
+      "filename": "0534.png",
+      "probability": 0.72,
+      "classification": "FAKE",
+      "confidence": 0.72
+    },
+    {
+      "filename": "0535.png",
+      "probability": 0.6403,
+      "classification": "FAKE",
+      "confidence": 0.6403
+    },
+    {
+      "filename": "0536.png",
+      "probability": 0.7157,
+      "classification": "FAKE",
+      "confidence": 0.7157
+    },
+    {
+      "filename": "0537.png",
+      "probability": 0.6265,
+      "classification": "FAKE",
+      "confidence": 0.6265
+    },
+    {
+      "filename": "0538.png",
+      "probability": 0.5383,
+      "classification": "FAKE",
+      "confidence": 0.5383
+    },
+    {
+      "filename": "0539.png",
+      "probability": 0.7817,
+      "classification": "FAKE",
+      "confidence": 0.7817
+    },
+    {
+      "filename": "0540.png",
+      "probability": 0.7169,
+      "classification": "FAKE",
+      "confidence": 0.7169
+    },
+    {
+      "filename": "0541.png",
+      "probability": 0.3746,
+      "classification": "REAL",
+      "confidence": 0.6254
+    },
+    {
+      "filename": "0542.png",
+      "probability": 0.6182,
+      "classification": "FAKE",
+      "confidence": 0.6182
+    },
+    {
+      "filename": "0543.png",
+      "probability": 0.7234,
+      "classification": "FAKE",
+      "confidence": 0.7234
+    },
+    {
+      "filename": "0544.png",
+      "probability": 0.8385,
+      "classification": "FAKE",
+      "confidence": 0.8385
+    },
+    {
+      "filename": "0545.png",
+      "probability": 0.6664,
+      "classification": "FAKE",
+      "confidence": 0.6664
+    },
+    {
+      "filename": "0546.png",
+      "probability": 0.4746,
+      "classification": "REAL",
+      "confidence": 0.5254
+    },
+    {
+      "filename": "0547.png",
+      "probability": 0.6522,
+      "classification": "FAKE",
+      "confidence": 0.6522
+    },
+    {
+      "filename": "0548.png",
+      "probability": 0.6793,
+      "classification": "FAKE",
+      "confidence": 0.6793
+    },
+    {
+      "filename": "0549.png",
+      "probability": 0.7937,
+      "classification": "FAKE",
+      "confidence": 0.7937
+    },
+    {
+      "filename": "0550.png",
+      "probability": 0.685,
+      "classification": "FAKE",
+      "confidence": 0.685
+    },
+    {
+      "filename": "0551.png",
+      "probability": 0.7061,
+      "classification": "FAKE",
+      "confidence": 0.7061
+    },
+    {
+      "filename": "0552.png",
+      "probability": 0.6231,
+      "classification": "FAKE",
+      "confidence": 0.6231
+    },
+    {
+      "filename": "0553.png",
+      "probability": 0.624,
+      "classification": "FAKE",
+      "confidence": 0.624
+    },
+    {
+      "filename": "0554.png",
+      "probability": 0.644,
+      "classification": "FAKE",
+      "confidence": 0.644
+    },
+    {
+      "filename": "0555.png",
+      "probability": 0.7143,
+      "classification": "FAKE",
+      "confidence": 0.7143
+    },
+    {
+      "filename": "0556.png",
+      "probability": 0.6217,
+      "classification": "FAKE",
+      "confidence": 0.6217
+    },
+    {
+      "filename": "0557.png",
+      "probability": 0.536,
+      "classification": "FAKE",
+      "confidence": 0.536
+    },
+    {
+      "filename": "0558.png",
+      "probability": 0.6197,
+      "classification": "FAKE",
+      "confidence": 0.6197
+    },
+    {
+      "filename": "0559.png",
+      "probability": 0.5727,
+      "classification": "FAKE",
+      "confidence": 0.5727
+    },
+    {
+      "filename": "0560.png",
+      "probability": 0.6874,
+      "classification": "FAKE",
+      "confidence": 0.6874
+    },
+    {
+      "filename": "0561.png",
+      "probability": 0.6937,
+      "classification": "FAKE",
+      "confidence": 0.6937
+    },
+    {
+      "filename": "0562.png",
+      "probability": 0.6985,
+      "classification": "FAKE",
+      "confidence": 0.6985
+    },
+    {
+      "filename": "0563.png",
+      "probability": 0.3945,
+      "classification": "REAL",
+      "confidence": 0.6055
+    },
+    {
+      "filename": "0564.png",
+      "probability": 0.5744,
+      "classification": "FAKE",
+      "confidence": 0.5744
+    },
+    {
+      "filename": "0565.png",
+      "probability": 0.6593,
+      "classification": "FAKE",
+      "confidence": 0.6593
+    },
+    {
+      "filename": "0566.png",
+      "probability": 0.7546,
+      "classification": "FAKE",
+      "confidence": 0.7546
+    },
+    {
+      "filename": "0567.png",
+      "probability": 0.6763,
+      "classification": "FAKE",
+      "confidence": 0.6763
+    },
+    {
+      "filename": "0568.png",
+      "probability": 0.7631,
+      "classification": "FAKE",
+      "confidence": 0.7631
+    },
+    {
+      "filename": "0569.png",
+      "probability": 0.6487,
+      "classification": "FAKE",
+      "confidence": 0.6487
+    },
+    {
+      "filename": "0570.png",
+      "probability": 0.5981,
+      "classification": "FAKE",
+      "confidence": 0.5981
+    },
+    {
+      "filename": "0571.png",
+      "probability": 0.6373,
+      "classification": "FAKE",
+      "confidence": 0.6373
+    },
+    {
+      "filename": "0572.png",
+      "probability": 0.7034,
+      "classification": "FAKE",
+      "confidence": 0.7034
+    },
+    {
+      "filename": "0573.png",
+      "probability": 0.8127,
+      "classification": "FAKE",
+      "confidence": 0.8127
+    },
+    {
+      "filename": "0574.png",
+      "probability": 0.4321,
+      "classification": "REAL",
+      "confidence": 0.5679
+    },
+    {
+      "filename": "0575.png",
+      "probability": 0.6661,
+      "classification": "FAKE",
+      "confidence": 0.6661
+    },
+    {
+      "filename": "0576.png",
+      "probability": 0.5089,
+      "classification": "FAKE",
+      "confidence": 0.5089
+    },
+    {
+      "filename": "0577.png",
+      "probability": 0.6764,
+      "classification": "FAKE",
+      "confidence": 0.6764
+    },
+    {
+      "filename": "0578.png",
+      "probability": 0.6538,
+      "classification": "FAKE",
+      "confidence": 0.6538
+    },
+    {
+      "filename": "0579.png",
+      "probability": 0.7724,
+      "classification": "FAKE",
+      "confidence": 0.7724
+    },
+    {
+      "filename": "0580.png",
+      "probability": 0.7879,
+      "classification": "FAKE",
+      "confidence": 0.7879
+    },
+    {
+      "filename": "0581.png",
+      "probability": 0.6287,
+      "classification": "FAKE",
+      "confidence": 0.6287
+    },
+    {
+      "filename": "0582.png",
+      "probability": 0.573,
+      "classification": "FAKE",
+      "confidence": 0.573
+    },
+    {
+      "filename": "0583.png",
+      "probability": 0.6688,
+      "classification": "FAKE",
+      "confidence": 0.6688
+    },
+    {
+      "filename": "0584.png",
+      "probability": 0.5292,
+      "classification": "FAKE",
+      "confidence": 0.5292
+    },
+    {
+      "filename": "0585.png",
+      "probability": 0.6451,
+      "classification": "FAKE",
+      "confidence": 0.6451
+    },
+    {
+      "filename": "0586.png",
+      "probability": 0.7707,
+      "classification": "FAKE",
+      "confidence": 0.7707
+    },
+    {
+      "filename": "0587.png",
+      "probability": 0.8357,
+      "classification": "FAKE",
+      "confidence": 0.8357
+    },
+    {
+      "filename": "0588.png",
+      "probability": 0.5849,
+      "classification": "FAKE",
+      "confidence": 0.5849
+    },
+    {
+      "filename": "0589.png",
+      "probability": 0.596,
+      "classification": "FAKE",
+      "confidence": 0.596
+    },
+    {
+      "filename": "0590.png",
+      "probability": 0.5633,
+      "classification": "FAKE",
+      "confidence": 0.5633
+    },
+    {
+      "filename": "0591.png",
+      "probability": 0.4677,
+      "classification": "REAL",
+      "confidence": 0.5323
+    },
+    {
+      "filename": "0592.png",
+      "probability": 0.5481,
+      "classification": "FAKE",
+      "confidence": 0.5481
+    },
+    {
+      "filename": "0593.png",
+      "probability": 0.5969,
+      "classification": "FAKE",
+      "confidence": 0.5969
+    },
+    {
+      "filename": "0594.png",
+      "probability": 0.7743,
+      "classification": "FAKE",
+      "confidence": 0.7743
+    },
+    {
+      "filename": "0595.png",
+      "probability": 0.6534,
+      "classification": "FAKE",
+      "confidence": 0.6534
+    },
+    {
+      "filename": "0596.png",
+      "probability": 0.6166,
+      "classification": "FAKE",
+      "confidence": 0.6166
+    },
+    {
+      "filename": "0597.png",
+      "probability": 0.599,
+      "classification": "FAKE",
+      "confidence": 0.599
+    },
+    {
+      "filename": "0598.png",
+      "probability": 0.4166,
+      "classification": "REAL",
+      "confidence": 0.5834
+    },
+    {
+      "filename": "0599.png",
+      "probability": 0.6926,
+      "classification": "FAKE",
+      "confidence": 0.6926
+    },
+    {
+      "filename": "0600.png",
+      "probability": 0.6701,
+      "classification": "FAKE",
+      "confidence": 0.6701
+    },
+    {
+      "filename": "0601.png",
+      "probability": 0.6928,
+      "classification": "FAKE",
+      "confidence": 0.6928
+    },
+    {
+      "filename": "0602.png",
+      "probability": 0.8496,
+      "classification": "FAKE",
+      "confidence": 0.8496
+    },
+    {
+      "filename": "0603.png",
+      "probability": 0.5047,
+      "classification": "FAKE",
+      "confidence": 0.5047
+    },
+    {
+      "filename": "0604.png",
+      "probability": 0.5918,
+      "classification": "FAKE",
+      "confidence": 0.5918
+    },
+    {
+      "filename": "0605.png",
+      "probability": 0.5577,
+      "classification": "FAKE",
+      "confidence": 0.5577
+    },
+    {
+      "filename": "0606.png",
+      "probability": 0.6584,
+      "classification": "FAKE",
+      "confidence": 0.6584
+    },
+    {
+      "filename": "0607.png",
+      "probability": 0.8546,
+      "classification": "FAKE",
+      "confidence": 0.8546
+    },
+    {
+      "filename": "0608.png",
+      "probability": 0.7632,
+      "classification": "FAKE",
+      "confidence": 0.7632
+    },
+    {
+      "filename": "0609.png",
+      "probability": 0.5687,
+      "classification": "FAKE",
+      "confidence": 0.5687
+    },
+    {
+      "filename": "0610.png",
+      "probability": 0.631,
+      "classification": "FAKE",
+      "confidence": 0.631
+    },
+    {
+      "filename": "0611.png",
+      "probability": 0.7212,
+      "classification": "FAKE",
+      "confidence": 0.7212
+    },
+    {
+      "filename": "0612.png",
+      "probability": 0.7373,
+      "classification": "FAKE",
+      "confidence": 0.7373
+    },
+    {
+      "filename": "0613.png",
+      "probability": 0.7729,
+      "classification": "FAKE",
+      "confidence": 0.7729
+    },
+    {
+      "filename": "0614.png",
+      "probability": 0.7128,
+      "classification": "FAKE",
+      "confidence": 0.7128
+    },
+    {
+      "filename": "0615.png",
+      "probability": 0.8193,
+      "classification": "FAKE",
+      "confidence": 0.8193
+    },
+    {
+      "filename": "0616.png",
+      "probability": 0.7239,
+      "classification": "FAKE",
+      "confidence": 0.7239
+    },
+    {
+      "filename": "0617.png",
+      "probability": 0.7303,
+      "classification": "FAKE",
+      "confidence": 0.7303
+    },
+    {
+      "filename": "0618.png",
+      "probability": 0.7932,
+      "classification": "FAKE",
+      "confidence": 0.7932
+    },
+    {
+      "filename": "0619.png",
+      "probability": 0.7181,
+      "classification": "FAKE",
+      "confidence": 0.7181
+    },
+    {
+      "filename": "0620.png",
+      "probability": 0.74,
+      "classification": "FAKE",
+      "confidence": 0.74
+    },
+    {
+      "filename": "0621.png",
+      "probability": 0.5246,
+      "classification": "FAKE",
+      "confidence": 0.5246
+    },
+    {
+      "filename": "0622.png",
+      "probability": 0.6758,
+      "classification": "FAKE",
+      "confidence": 0.6758
+    },
+    {
+      "filename": "0623.png",
+      "probability": 0.5436,
+      "classification": "FAKE",
+      "confidence": 0.5436
+    },
+    {
+      "filename": "0624.png",
+      "probability": 0.5381,
+      "classification": "FAKE",
+      "confidence": 0.5381
+    },
+    {
+      "filename": "0625.png",
+      "probability": 0.6543,
+      "classification": "FAKE",
+      "confidence": 0.6543
+    },
+    {
+      "filename": "0626.png",
+      "probability": 0.5604,
+      "classification": "FAKE",
+      "confidence": 0.5604
+    },
+    {
+      "filename": "0627.png",
+      "probability": 0.6321,
+      "classification": "FAKE",
+      "confidence": 0.6321
+    },
+    {
+      "filename": "0628.png",
+      "probability": 0.546,
+      "classification": "FAKE",
+      "confidence": 0.546
+    },
+    {
+      "filename": "0629.png",
+      "probability": 0.6781,
+      "classification": "FAKE",
+      "confidence": 0.6781
+    },
+    {
+      "filename": "0630.png",
+      "probability": 0.7051,
+      "classification": "FAKE",
+      "confidence": 0.7051
+    },
+    {
+      "filename": "0631.png",
+      "probability": 0.8059,
+      "classification": "FAKE",
+      "confidence": 0.8059
+    },
+    {
+      "filename": "0632.png",
+      "probability": 0.7733,
+      "classification": "FAKE",
+      "confidence": 0.7733
+    },
+    {
+      "filename": "0633.png",
+      "probability": 0.6857,
+      "classification": "FAKE",
+      "confidence": 0.6857
+    },
+    {
+      "filename": "0634.png",
+      "probability": 0.7398,
+      "classification": "FAKE",
+      "confidence": 0.7398
+    },
+    {
+      "filename": "0635.png",
+      "probability": 0.3891,
+      "classification": "REAL",
+      "confidence": 0.6109
+    },
+    {
+      "filename": "0636.png",
+      "probability": 0.8001,
+      "classification": "FAKE",
+      "confidence": 0.8001
+    },
+    {
+      "filename": "0637.png",
+      "probability": 0.6737,
+      "classification": "FAKE",
+      "confidence": 0.6737
+    },
+    {
+      "filename": "0638.png",
+      "probability": 0.6877,
+      "classification": "FAKE",
+      "confidence": 0.6877
+    },
+    {
+      "filename": "0639.png",
+      "probability": 0.6492,
+      "classification": "FAKE",
+      "confidence": 0.6492
+    },
+    {
+      "filename": "0640.png",
+      "probability": 0.7332,
+      "classification": "FAKE",
+      "confidence": 0.7332
+    },
+    {
+      "filename": "0641.png",
+      "probability": 0.854,
+      "classification": "FAKE",
+      "confidence": 0.854
+    },
+    {
+      "filename": "0642.png",
+      "probability": 0.6685,
+      "classification": "FAKE",
+      "confidence": 0.6685
+    },
+    {
+      "filename": "0643.png",
+      "probability": 0.3721,
+      "classification": "REAL",
+      "confidence": 0.6279
+    },
+    {
+      "filename": "0644.png",
+      "probability": 0.376,
+      "classification": "REAL",
+      "confidence": 0.624
+    },
+    {
+      "filename": "0645.png",
+      "probability": 0.6055,
+      "classification": "FAKE",
+      "confidence": 0.6055
+    },
+    {
+      "filename": "0646.png",
+      "probability": 0.6793,
+      "classification": "FAKE",
+      "confidence": 0.6793
+    },
+    {
+      "filename": "0647.png",
+      "probability": 0.2356,
+      "classification": "REAL",
+      "confidence": 0.7644
+    },
+    {
+      "filename": "0648.png",
+      "probability": 0.6793,
+      "classification": "FAKE",
+      "confidence": 0.6793
+    },
+    {
+      "filename": "0649.png",
+      "probability": 0.6538,
+      "classification": "FAKE",
+      "confidence": 0.6538
+    },
+    {
+      "filename": "0650.png",
+      "probability": 0.7358,
+      "classification": "FAKE",
+      "confidence": 0.7358
+    },
+    {
+      "filename": "0651.png",
+      "probability": 0.6878,
+      "classification": "FAKE",
+      "confidence": 0.6878
+    },
+    {
+      "filename": "0652.png",
+      "probability": 0.6342,
+      "classification": "FAKE",
+      "confidence": 0.6342
+    },
+    {
+      "filename": "0653.png",
+      "probability": 0.6121,
+      "classification": "FAKE",
+      "confidence": 0.6121
+    },
+    {
+      "filename": "0654.png",
+      "probability": 0.5795,
+      "classification": "FAKE",
+      "confidence": 0.5795
+    },
+    {
+      "filename": "0655.png",
+      "probability": 0.6409,
+      "classification": "FAKE",
+      "confidence": 0.6409
+    },
+    {
+      "filename": "0656.png",
+      "probability": 0.7098,
+      "classification": "FAKE",
+      "confidence": 0.7098
+    },
+    {
+      "filename": "0657.png",
+      "probability": 0.712,
+      "classification": "FAKE",
+      "confidence": 0.712
+    },
+    {
+      "filename": "0658.png",
+      "probability": 0.7591,
+      "classification": "FAKE",
+      "confidence": 0.7591
+    },
+    {
+      "filename": "0659.png",
+      "probability": 0.584,
+      "classification": "FAKE",
+      "confidence": 0.584
+    },
+    {
+      "filename": "0660.png",
+      "probability": 0.6301,
+      "classification": "FAKE",
+      "confidence": 0.6301
+    },
+    {
+      "filename": "0661.png",
+      "probability": 0.6586,
+      "classification": "FAKE",
+      "confidence": 0.6586
+    },
+    {
+      "filename": "0662.png",
+      "probability": 0.6908,
+      "classification": "FAKE",
+      "confidence": 0.6908
+    },
+    {
+      "filename": "0663.png",
+      "probability": 0.8428,
+      "classification": "FAKE",
+      "confidence": 0.8428
+    },
+    {
+      "filename": "0664.png",
+      "probability": 0.564,
+      "classification": "FAKE",
+      "confidence": 0.564
+    },
+    {
+      "filename": "0665.png",
+      "probability": 0.4446,
+      "classification": "REAL",
+      "confidence": 0.5554
+    },
+    {
+      "filename": "0666.png",
+      "probability": 0.721,
+      "classification": "FAKE",
+      "confidence": 0.721
+    },
+    {
+      "filename": "0667.png",
+      "probability": 0.7133,
+      "classification": "FAKE",
+      "confidence": 0.7133
+    },
+    {
+      "filename": "0668.png",
+      "probability": 0.7216,
+      "classification": "FAKE",
+      "confidence": 0.7216
+    },
+    {
+      "filename": "0669.png",
+      "probability": 0.6526,
+      "classification": "FAKE",
+      "confidence": 0.6526
+    },
+    {
+      "filename": "0670.png",
+      "probability": 0.6489,
+      "classification": "FAKE",
+      "confidence": 0.6489
+    },
+    {
+      "filename": "0671.png",
+      "probability": 0.6704,
+      "classification": "FAKE",
+      "confidence": 0.6704
+    },
+    {
+      "filename": "0672.png",
+      "probability": 0.7567,
+      "classification": "FAKE",
+      "confidence": 0.7567
+    },
+    {
+      "filename": "0673.png",
+      "probability": 0.6938,
+      "classification": "FAKE",
+      "confidence": 0.6938
+    },
+    {
+      "filename": "0674.png",
+      "probability": 0.7328,
+      "classification": "FAKE",
+      "confidence": 0.7328
+    },
+    {
+      "filename": "0675.png",
+      "probability": 0.7426,
+      "classification": "FAKE",
+      "confidence": 0.7426
+    },
+    {
+      "filename": "0676.png",
+      "probability": 0.6616,
+      "classification": "FAKE",
+      "confidence": 0.6616
+    },
+    {
+      "filename": "0677.png",
+      "probability": 0.7997,
+      "classification": "FAKE",
+      "confidence": 0.7997
+    },
+    {
+      "filename": "0678.png",
+      "probability": 0.5937,
+      "classification": "FAKE",
+      "confidence": 0.5937
+    },
+    {
+      "filename": "0679.png",
+      "probability": 0.6031,
+      "classification": "FAKE",
+      "confidence": 0.6031
+    },
+    {
+      "filename": "0680.png",
+      "probability": 0.7174,
+      "classification": "FAKE",
+      "confidence": 0.7174
+    },
+    {
+      "filename": "0681.png",
+      "probability": 0.5094,
+      "classification": "FAKE",
+      "confidence": 0.5094
+    },
+    {
+      "filename": "0682.png",
+      "probability": 0.6706,
+      "classification": "FAKE",
+      "confidence": 0.6706
+    },
+    {
+      "filename": "0683.png",
+      "probability": 0.7668,
+      "classification": "FAKE",
+      "confidence": 0.7668
+    },
+    {
+      "filename": "0684.png",
+      "probability": 0.6077,
+      "classification": "FAKE",
+      "confidence": 0.6077
+    },
+    {
+      "filename": "0685.png",
+      "probability": 0.6525,
+      "classification": "FAKE",
+      "confidence": 0.6525
+    },
+    {
+      "filename": "0686.png",
+      "probability": 0.7222,
+      "classification": "FAKE",
+      "confidence": 0.7222
+    },
+    {
+      "filename": "0687.png",
+      "probability": 0.7525,
+      "classification": "FAKE",
+      "confidence": 0.7525
+    },
+    {
+      "filename": "0688.png",
+      "probability": 0.6636,
+      "classification": "FAKE",
+      "confidence": 0.6636
+    },
+    {
+      "filename": "0689.png",
+      "probability": 0.5915,
+      "classification": "FAKE",
+      "confidence": 0.5915
+    },
+    {
+      "filename": "0690.png",
+      "probability": 0.658,
+      "classification": "FAKE",
+      "confidence": 0.658
+    },
+    {
+      "filename": "0691.png",
+      "probability": 0.5965,
+      "classification": "FAKE",
+      "confidence": 0.5965
+    },
+    {
+      "filename": "0692.png",
+      "probability": 0.5384,
+      "classification": "FAKE",
+      "confidence": 0.5384
+    },
+    {
+      "filename": "0693.png",
+      "probability": 0.7414,
+      "classification": "FAKE",
+      "confidence": 0.7414
+    },
+    {
+      "filename": "0694.png",
+      "probability": 0.6491,
+      "classification": "FAKE",
+      "confidence": 0.6491
+    },
+    {
+      "filename": "0695.png",
+      "probability": 0.6089,
+      "classification": "FAKE",
+      "confidence": 0.6089
+    },
+    {
+      "filename": "0696.png",
+      "probability": 0.4055,
+      "classification": "REAL",
+      "confidence": 0.5945
+    },
+    {
+      "filename": "0697.png",
+      "probability": 0.7823,
+      "classification": "FAKE",
+      "confidence": 0.7823
+    },
+    {
+      "filename": "0698.png",
+      "probability": 0.7186,
+      "classification": "FAKE",
+      "confidence": 0.7186
+    },
+    {
+      "filename": "0699.png",
+      "probability": 0.5905,
+      "classification": "FAKE",
+      "confidence": 0.5905
+    },
+    {
+      "filename": "0700.png",
+      "probability": 0.7076,
+      "classification": "FAKE",
+      "confidence": 0.7076
+    },
+    {
+      "filename": "0701.png",
+      "probability": 0.8071,
+      "classification": "FAKE",
+      "confidence": 0.8071
+    },
+    {
+      "filename": "0702.png",
+      "probability": 0.6482,
+      "classification": "FAKE",
+      "confidence": 0.6482
+    },
+    {
+      "filename": "0703.png",
+      "probability": 0.5315,
+      "classification": "FAKE",
+      "confidence": 0.5315
+    },
+    {
+      "filename": "0704.png",
+      "probability": 0.6769,
+      "classification": "FAKE",
+      "confidence": 0.6769
+    },
+    {
+      "filename": "0705.png",
+      "probability": 0.4988,
+      "classification": "REAL",
+      "confidence": 0.5012
+    },
+    {
+      "filename": "0706.png",
+      "probability": 0.7837,
+      "classification": "FAKE",
+      "confidence": 0.7837
+    },
+    {
+      "filename": "0707.png",
+      "probability": 0.4559,
+      "classification": "REAL",
+      "confidence": 0.5441
+    },
+    {
+      "filename": "0708.png",
+      "probability": 0.5201,
+      "classification": "FAKE",
+      "confidence": 0.5201
+    },
+    {
+      "filename": "0709.png",
+      "probability": 0.4844,
+      "classification": "REAL",
+      "confidence": 0.5156
+    },
+    {
+      "filename": "0710.png",
+      "probability": 0.6238,
+      "classification": "FAKE",
+      "confidence": 0.6238
+    },
+    {
+      "filename": "0711.png",
+      "probability": 0.7548,
+      "classification": "FAKE",
+      "confidence": 0.7548
+    },
+    {
+      "filename": "0712.png",
+      "probability": 0.771,
+      "classification": "FAKE",
+      "confidence": 0.771
+    },
+    {
+      "filename": "0713.png",
+      "probability": 0.7718,
+      "classification": "FAKE",
+      "confidence": 0.7718
+    },
+    {
+      "filename": "0714.png",
+      "probability": 0.717,
+      "classification": "FAKE",
+      "confidence": 0.717
+    },
+    {
+      "filename": "0715.png",
+      "probability": 0.6941,
+      "classification": "FAKE",
+      "confidence": 0.6941
+    },
+    {
+      "filename": "0716.png",
+      "probability": 0.823,
+      "classification": "FAKE",
+      "confidence": 0.823
+    },
+    {
+      "filename": "0717.png",
+      "probability": 0.6076,
+      "classification": "FAKE",
+      "confidence": 0.6076
+    },
+    {
+      "filename": "0718.png",
+      "probability": 0.5601,
+      "classification": "FAKE",
+      "confidence": 0.5601
+    },
+    {
+      "filename": "0719.png",
+      "probability": 0.6235,
+      "classification": "FAKE",
+      "confidence": 0.6235
+    },
+    {
+      "filename": "0720.png",
+      "probability": 0.6257,
+      "classification": "FAKE",
+      "confidence": 0.6257
+    },
+    {
+      "filename": "0721.png",
+      "probability": 0.5516,
+      "classification": "FAKE",
+      "confidence": 0.5516
+    },
+    {
+      "filename": "0722.png",
+      "probability": 0.7217,
+      "classification": "FAKE",
+      "confidence": 0.7217
+    },
+    {
+      "filename": "0723.png",
+      "probability": 0.612,
+      "classification": "FAKE",
+      "confidence": 0.612
+    },
+    {
+      "filename": "0724.png",
+      "probability": 0.6885,
+      "classification": "FAKE",
+      "confidence": 0.6885
+    },
+    {
+      "filename": "0725.png",
+      "probability": 0.8044,
+      "classification": "FAKE",
+      "confidence": 0.8044
+    },
+    {
+      "filename": "0726.png",
+      "probability": 0.6583,
+      "classification": "FAKE",
+      "confidence": 0.6583
+    },
+    {
+      "filename": "0727.png",
+      "probability": 0.7833,
+      "classification": "FAKE",
+      "confidence": 0.7833
+    },
+    {
+      "filename": "0728.png",
+      "probability": 0.6308,
+      "classification": "FAKE",
+      "confidence": 0.6308
+    },
+    {
+      "filename": "0729.png",
+      "probability": 0.7525,
+      "classification": "FAKE",
+      "confidence": 0.7525
+    },
+    {
+      "filename": "0730.png",
+      "probability": 0.5043,
+      "classification": "FAKE",
+      "confidence": 0.5043
+    },
+    {
+      "filename": "0731.png",
+      "probability": 0.6403,
+      "classification": "FAKE",
+      "confidence": 0.6403
+    },
+    {
+      "filename": "0732.png",
+      "probability": 0.3851,
+      "classification": "REAL",
+      "confidence": 0.6149
+    },
+    {
+      "filename": "0733.png",
+      "probability": 0.6627,
+      "classification": "FAKE",
+      "confidence": 0.6627
+    },
+    {
+      "filename": "0734.png",
+      "probability": 0.7649,
+      "classification": "FAKE",
+      "confidence": 0.7649
+    },
+    {
+      "filename": "0735.png",
+      "probability": 0.5377,
+      "classification": "FAKE",
+      "confidence": 0.5377
+    },
+    {
+      "filename": "0736.png",
+      "probability": 0.589,
+      "classification": "FAKE",
+      "confidence": 0.589
+    },
+    {
+      "filename": "0737.png",
+      "probability": 0.7606,
+      "classification": "FAKE",
+      "confidence": 0.7606
+    },
+    {
+      "filename": "0738.png",
+      "probability": 0.7608,
+      "classification": "FAKE",
+      "confidence": 0.7608
+    },
+    {
+      "filename": "0739.png",
+      "probability": 0.5021,
+      "classification": "FAKE",
+      "confidence": 0.5021
+    },
+    {
+      "filename": "0740.png",
+      "probability": 0.6193,
+      "classification": "FAKE",
+      "confidence": 0.6193
+    },
+    {
+      "filename": "0741.png",
+      "probability": 0.6811,
+      "classification": "FAKE",
+      "confidence": 0.6811
+    },
+    {
+      "filename": "0742.png",
+      "probability": 0.6802,
+      "classification": "FAKE",
+      "confidence": 0.6802
+    },
+    {
+      "filename": "0743.png",
+      "probability": 0.6792,
+      "classification": "FAKE",
+      "confidence": 0.6792
+    },
+    {
+      "filename": "0744.png",
+      "probability": 0.4661,
+      "classification": "REAL",
+      "confidence": 0.5339
+    },
+    {
+      "filename": "0745.png",
+      "probability": 0.7717,
+      "classification": "FAKE",
+      "confidence": 0.7717
+    },
+    {
+      "filename": "0746.png",
+      "probability": 0.7822,
+      "classification": "FAKE",
+      "confidence": 0.7822
+    },
+    {
+      "filename": "0747.png",
+      "probability": 0.5827,
+      "classification": "FAKE",
+      "confidence": 0.5827
+    },
+    {
+      "filename": "0748.png",
+      "probability": 0.6535,
+      "classification": "FAKE",
+      "confidence": 0.6535
+    },
+    {
+      "filename": "0749.png",
+      "probability": 0.7826,
+      "classification": "FAKE",
+      "confidence": 0.7826
+    },
+    {
+      "filename": "0750.png",
+      "probability": 0.6897,
+      "classification": "FAKE",
+      "confidence": 0.6897
+    },
+    {
+      "filename": "0751.png",
+      "probability": 0.6265,
+      "classification": "FAKE",
+      "confidence": 0.6265
+    },
+    {
+      "filename": "0752.png",
+      "probability": 0.6766,
+      "classification": "FAKE",
+      "confidence": 0.6766
+    },
+    {
+      "filename": "0753.png",
+      "probability": 0.6226,
+      "classification": "FAKE",
+      "confidence": 0.6226
+    },
+    {
+      "filename": "0754.png",
+      "probability": 0.5491,
+      "classification": "FAKE",
+      "confidence": 0.5491
+    },
+    {
+      "filename": "0755.png",
+      "probability": 0.7335,
+      "classification": "FAKE",
+      "confidence": 0.7335
+    },
+    {
+      "filename": "0756.png",
+      "probability": 0.6695,
+      "classification": "FAKE",
+      "confidence": 0.6695
+    },
+    {
+      "filename": "0757.png",
+      "probability": 0.6374,
+      "classification": "FAKE",
+      "confidence": 0.6374
+    },
+    {
+      "filename": "0758.png",
+      "probability": 0.4749,
+      "classification": "REAL",
+      "confidence": 0.5251
+    },
+    {
+      "filename": "0759.png",
+      "probability": 0.7777,
+      "classification": "FAKE",
+      "confidence": 0.7777
+    },
+    {
+      "filename": "0760.png",
+      "probability": 0.552,
+      "classification": "FAKE",
+      "confidence": 0.552
+    },
+    {
+      "filename": "0761.png",
+      "probability": 0.6718,
+      "classification": "FAKE",
+      "confidence": 0.6718
+    },
+    {
+      "filename": "0762.png",
+      "probability": 0.5906,
+      "classification": "FAKE",
+      "confidence": 0.5906
+    },
+    {
+      "filename": "0763.png",
+      "probability": 0.7145,
+      "classification": "FAKE",
+      "confidence": 0.7145
+    },
+    {
+      "filename": "0764.png",
+      "probability": 0.766,
+      "classification": "FAKE",
+      "confidence": 0.766
+    },
+    {
+      "filename": "0765.png",
+      "probability": 0.687,
+      "classification": "FAKE",
+      "confidence": 0.687
+    },
+    {
+      "filename": "0766.png",
+      "probability": 0.6751,
+      "classification": "FAKE",
+      "confidence": 0.6751
+    },
+    {
+      "filename": "0767.png",
+      "probability": 0.8086,
+      "classification": "FAKE",
+      "confidence": 0.8086
+    },
+    {
+      "filename": "0768.png",
+      "probability": 0.574,
+      "classification": "FAKE",
+      "confidence": 0.574
+    },
+    {
+      "filename": "0769.png",
+      "probability": 0.6675,
+      "classification": "FAKE",
+      "confidence": 0.6675
+    },
+    {
+      "filename": "0770.png",
+      "probability": 0.553,
+      "classification": "FAKE",
+      "confidence": 0.553
+    },
+    {
+      "filename": "0771.png",
+      "probability": 0.5803,
+      "classification": "FAKE",
+      "confidence": 0.5803
+    },
+    {
+      "filename": "0772.png",
+      "probability": 0.7526,
+      "classification": "FAKE",
+      "confidence": 0.7526
+    },
+    {
+      "filename": "0773.png",
+      "probability": 0.6764,
+      "classification": "FAKE",
+      "confidence": 0.6764
+    },
+    {
+      "filename": "0774.png",
+      "probability": 0.7538,
+      "classification": "FAKE",
+      "confidence": 0.7538
+    },
+    {
+      "filename": "0775.png",
+      "probability": 0.6349,
+      "classification": "FAKE",
+      "confidence": 0.6349
+    },
+    {
+      "filename": "0776.png",
+      "probability": 0.682,
+      "classification": "FAKE",
+      "confidence": 0.682
+    },
+    {
+      "filename": "0777.png",
+      "probability": 0.7452,
+      "classification": "FAKE",
+      "confidence": 0.7452
+    },
+    {
+      "filename": "0778.png",
+      "probability": 0.6958,
+      "classification": "FAKE",
+      "confidence": 0.6958
+    },
+    {
+      "filename": "0779.png",
+      "probability": 0.5747,
+      "classification": "FAKE",
+      "confidence": 0.5747
+    },
+    {
+      "filename": "0780.png",
+      "probability": 0.4341,
+      "classification": "REAL",
+      "confidence": 0.5659
+    },
+    {
+      "filename": "0781.png",
+      "probability": 0.6849,
+      "classification": "FAKE",
+      "confidence": 0.6849
+    },
+    {
+      "filename": "0782.png",
+      "probability": 0.5923,
+      "classification": "FAKE",
+      "confidence": 0.5923
+    },
+    {
+      "filename": "0783.png",
+      "probability": 0.6385,
+      "classification": "FAKE",
+      "confidence": 0.6385
+    },
+    {
+      "filename": "0784.png",
+      "probability": 0.7413,
+      "classification": "FAKE",
+      "confidence": 0.7413
+    },
+    {
+      "filename": "0785.png",
+      "probability": 0.6616,
+      "classification": "FAKE",
+      "confidence": 0.6616
+    },
+    {
+      "filename": "0786.png",
+      "probability": 0.542,
+      "classification": "FAKE",
+      "confidence": 0.542
+    },
+    {
+      "filename": "0787.png",
+      "probability": 0.7787,
+      "classification": "FAKE",
+      "confidence": 0.7787
+    },
+    {
+      "filename": "0788.png",
+      "probability": 0.349,
+      "classification": "REAL",
+      "confidence": 0.651
+    },
+    {
+      "filename": "0789.png",
+      "probability": 0.6748,
+      "classification": "FAKE",
+      "confidence": 0.6748
+    },
+    {
+      "filename": "0790.png",
+      "probability": 0.6554,
+      "classification": "FAKE",
+      "confidence": 0.6554
+    },
+    {
+      "filename": "0791.png",
+      "probability": 0.7642,
+      "classification": "FAKE",
+      "confidence": 0.7642
+    },
+    {
+      "filename": "0792.png",
+      "probability": 0.6156,
+      "classification": "FAKE",
+      "confidence": 0.6156
+    },
+    {
+      "filename": "0793.png",
+      "probability": 0.6222,
+      "classification": "FAKE",
+      "confidence": 0.6222
+    },
+    {
+      "filename": "0794.png",
+      "probability": 0.5904,
+      "classification": "FAKE",
+      "confidence": 0.5904
+    },
+    {
+      "filename": "0795.png",
+      "probability": 0.6459,
+      "classification": "FAKE",
+      "confidence": 0.6459
+    },
+    {
+      "filename": "0796.png",
+      "probability": 0.558,
+      "classification": "FAKE",
+      "confidence": 0.558
+    },
+    {
+      "filename": "0797.png",
+      "probability": 0.6721,
+      "classification": "FAKE",
+      "confidence": 0.6721
+    },
+    {
+      "filename": "0798.png",
+      "probability": 0.7662,
+      "classification": "FAKE",
+      "confidence": 0.7662
+    },
+    {
+      "filename": "0799.png",
+      "probability": 0.5028,
+      "classification": "FAKE",
+      "confidence": 0.5028
+    },
+    {
+      "filename": "0800.png",
+      "probability": 0.6626,
+      "classification": "FAKE",
+      "confidence": 0.6626
+    },
+    {
+      "filename": "0801.png",
+      "probability": 0.7987,
+      "classification": "FAKE",
+      "confidence": 0.7987
+    },
+    {
+      "filename": "0802.png",
+      "probability": 0.7048,
+      "classification": "FAKE",
+      "confidence": 0.7048
+    },
+    {
+      "filename": "0803.png",
+      "probability": 0.6866,
+      "classification": "FAKE",
+      "confidence": 0.6866
+    },
+    {
+      "filename": "0804.png",
+      "probability": 0.6108,
+      "classification": "FAKE",
+      "confidence": 0.6108
+    },
+    {
+      "filename": "0805.png",
+      "probability": 0.514,
+      "classification": "FAKE",
+      "confidence": 0.514
+    },
+    {
+      "filename": "0806.png",
+      "probability": 0.7334,
+      "classification": "FAKE",
+      "confidence": 0.7334
+    },
+    {
+      "filename": "0807.png",
+      "probability": 0.5739,
+      "classification": "FAKE",
+      "confidence": 0.5739
+    },
+    {
+      "filename": "0808.png",
+      "probability": 0.6482,
+      "classification": "FAKE",
+      "confidence": 0.6482
+    },
+    {
+      "filename": "0809.png",
+      "probability": 0.5714,
+      "classification": "FAKE",
+      "confidence": 0.5714
+    },
+    {
+      "filename": "0810.png",
+      "probability": 0.5502,
+      "classification": "FAKE",
+      "confidence": 0.5502
+    },
+    {
+      "filename": "0811.png",
+      "probability": 0.6576,
+      "classification": "FAKE",
+      "confidence": 0.6576
+    },
+    {
+      "filename": "0812.png",
+      "probability": 0.636,
+      "classification": "FAKE",
+      "confidence": 0.636
+    },
+    {
+      "filename": "0813.png",
+      "probability": 0.4936,
+      "classification": "REAL",
+      "confidence": 0.5064
+    },
+    {
+      "filename": "0814.png",
+      "probability": 0.6263,
+      "classification": "FAKE",
+      "confidence": 0.6263
+    },
+    {
+      "filename": "0815.png",
+      "probability": 0.604,
+      "classification": "FAKE",
+      "confidence": 0.604
+    },
+    {
+      "filename": "0816.png",
+      "probability": 0.292,
+      "classification": "REAL",
+      "confidence": 0.708
+    },
+    {
+      "filename": "0817.png",
+      "probability": 0.6002,
+      "classification": "FAKE",
+      "confidence": 0.6002
+    },
+    {
+      "filename": "0818.png",
+      "probability": 0.6499,
+      "classification": "FAKE",
+      "confidence": 0.6499
+    },
+    {
+      "filename": "0819.png",
+      "probability": 0.7644,
+      "classification": "FAKE",
+      "confidence": 0.7644
+    },
+    {
+      "filename": "0820.png",
+      "probability": 0.7032,
+      "classification": "FAKE",
+      "confidence": 0.7032
+    },
+    {
+      "filename": "0821.png",
+      "probability": 0.7742,
+      "classification": "FAKE",
+      "confidence": 0.7742
+    },
+    {
+      "filename": "0822.png",
+      "probability": 0.7241,
+      "classification": "FAKE",
+      "confidence": 0.7241
+    },
+    {
+      "filename": "0823.png",
+      "probability": 0.5823,
+      "classification": "FAKE",
+      "confidence": 0.5823
+    },
+    {
+      "filename": "0824.png",
+      "probability": 0.4683,
+      "classification": "REAL",
+      "confidence": 0.5317
+    },
+    {
+      "filename": "0825.png",
+      "probability": 0.7158,
+      "classification": "FAKE",
+      "confidence": 0.7158
+    },
+    {
+      "filename": "0826.png",
+      "probability": 0.5469,
+      "classification": "FAKE",
+      "confidence": 0.5469
+    },
+    {
+      "filename": "0827.png",
+      "probability": 0.401,
+      "classification": "REAL",
+      "confidence": 0.599
+    },
+    {
+      "filename": "0828.png",
+      "probability": 0.4504,
+      "classification": "REAL",
+      "confidence": 0.5496
+    },
+    {
+      "filename": "0829.png",
+      "probability": 0.6074,
+      "classification": "FAKE",
+      "confidence": 0.6074
+    },
+    {
+      "filename": "0830.png",
+      "probability": 0.6322,
+      "classification": "FAKE",
+      "confidence": 0.6322
+    },
+    {
+      "filename": "0831.png",
+      "probability": 0.7046,
+      "classification": "FAKE",
+      "confidence": 0.7046
+    },
+    {
+      "filename": "0832.png",
+      "probability": 0.597,
+      "classification": "FAKE",
+      "confidence": 0.597
+    },
+    {
+      "filename": "0833.png",
+      "probability": 0.6818,
+      "classification": "FAKE",
+      "confidence": 0.6818
+    },
+    {
+      "filename": "0834.png",
+      "probability": 0.6826,
+      "classification": "FAKE",
+      "confidence": 0.6826
+    },
+    {
+      "filename": "0835.png",
+      "probability": 0.5219,
+      "classification": "FAKE",
+      "confidence": 0.5219
+    },
+    {
+      "filename": "0836.png",
+      "probability": 0.7503,
+      "classification": "FAKE",
+      "confidence": 0.7503
+    },
+    {
+      "filename": "0837.png",
+      "probability": 0.582,
+      "classification": "FAKE",
+      "confidence": 0.582
+    },
+    {
+      "filename": "0838.png",
+      "probability": 0.5309,
+      "classification": "FAKE",
+      "confidence": 0.5309
+    },
+    {
+      "filename": "0839.png",
+      "probability": 0.6089,
+      "classification": "FAKE",
+      "confidence": 0.6089
+    },
+    {
+      "filename": "0840.png",
+      "probability": 0.776,
+      "classification": "FAKE",
+      "confidence": 0.776
+    },
+    {
+      "filename": "0841.png",
+      "probability": 0.5714,
+      "classification": "FAKE",
+      "confidence": 0.5714
+    },
+    {
+      "filename": "0842.png",
+      "probability": 0.628,
+      "classification": "FAKE",
+      "confidence": 0.628
+    },
+    {
+      "filename": "0843.png",
+      "probability": 0.5197,
+      "classification": "FAKE",
+      "confidence": 0.5197
+    },
+    {
+      "filename": "0844.png",
+      "probability": 0.6821,
+      "classification": "FAKE",
+      "confidence": 0.6821
+    },
+    {
+      "filename": "0845.png",
+      "probability": 0.6444,
+      "classification": "FAKE",
+      "confidence": 0.6444
+    },
+    {
+      "filename": "0846.png",
+      "probability": 0.6993,
+      "classification": "FAKE",
+      "confidence": 0.6993
+    },
+    {
+      "filename": "0847.png",
+      "probability": 0.6848,
+      "classification": "FAKE",
+      "confidence": 0.6848
+    },
+    {
+      "filename": "0848.png",
+      "probability": 0.6764,
+      "classification": "FAKE",
+      "confidence": 0.6764
+    },
+    {
+      "filename": "0849.png",
+      "probability": 0.6867,
+      "classification": "FAKE",
+      "confidence": 0.6867
+    },
+    {
+      "filename": "0850.png",
+      "probability": 0.7041,
+      "classification": "FAKE",
+      "confidence": 0.7041
+    },
+    {
+      "filename": "0851.png",
+      "probability": 0.7618,
+      "classification": "FAKE",
+      "confidence": 0.7618
+    },
+    {
+      "filename": "0852.png",
+      "probability": 0.5994,
+      "classification": "FAKE",
+      "confidence": 0.5994
+    },
+    {
+      "filename": "0853.png",
+      "probability": 0.6616,
+      "classification": "FAKE",
+      "confidence": 0.6616
+    },
+    {
+      "filename": "0854.png",
+      "probability": 0.7058,
+      "classification": "FAKE",
+      "confidence": 0.7058
+    },
+    {
+      "filename": "0855.png",
+      "probability": 0.4898,
+      "classification": "REAL",
+      "confidence": 0.5102
+    },
+    {
+      "filename": "0856.png",
+      "probability": 0.7462,
+      "classification": "FAKE",
+      "confidence": 0.7462
+    },
+    {
+      "filename": "0857.png",
+      "probability": 0.567,
+      "classification": "FAKE",
+      "confidence": 0.567
+    },
+    {
+      "filename": "0858.png",
+      "probability": 0.7936,
+      "classification": "FAKE",
+      "confidence": 0.7936
+    },
+    {
+      "filename": "0859.png",
+      "probability": 0.691,
+      "classification": "FAKE",
+      "confidence": 0.691
+    },
+    {
+      "filename": "0860.png",
+      "probability": 0.6519,
+      "classification": "FAKE",
+      "confidence": 0.6519
+    },
+    {
+      "filename": "0861.png",
+      "probability": 0.6762,
+      "classification": "FAKE",
+      "confidence": 0.6762
+    },
+    {
+      "filename": "0862.png",
+      "probability": 0.5304,
+      "classification": "FAKE",
+      "confidence": 0.5304
+    },
+    {
+      "filename": "0863.png",
+      "probability": 0.6733,
+      "classification": "FAKE",
+      "confidence": 0.6733
+    },
+    {
+      "filename": "0864.png",
+      "probability": 0.5671,
+      "classification": "FAKE",
+      "confidence": 0.5671
+    },
+    {
+      "filename": "0865.png",
+      "probability": 0.7402,
+      "classification": "FAKE",
+      "confidence": 0.7402
+    },
+    {
+      "filename": "0866.png",
+      "probability": 0.8038,
+      "classification": "FAKE",
+      "confidence": 0.8038
+    },
+    {
+      "filename": "0867.png",
+      "probability": 0.6116,
+      "classification": "FAKE",
+      "confidence": 0.6116
+    },
+    {
+      "filename": "0868.png",
+      "probability": 0.5573,
+      "classification": "FAKE",
+      "confidence": 0.5573
+    },
+    {
+      "filename": "0869.png",
+      "probability": 0.5903,
+      "classification": "FAKE",
+      "confidence": 0.5903
+    },
+    {
+      "filename": "0870.png",
+      "probability": 0.6756,
+      "classification": "FAKE",
+      "confidence": 0.6756
+    },
+    {
+      "filename": "0871.png",
+      "probability": 0.5648,
+      "classification": "FAKE",
+      "confidence": 0.5648
+    },
+    {
+      "filename": "0872.png",
+      "probability": 0.6236,
+      "classification": "FAKE",
+      "confidence": 0.6236
+    },
+    {
+      "filename": "0873.png",
+      "probability": 0.7601,
+      "classification": "FAKE",
+      "confidence": 0.7601
+    },
+    {
+      "filename": "0874.png",
+      "probability": 0.6658,
+      "classification": "FAKE",
+      "confidence": 0.6658
+    },
+    {
+      "filename": "0875.png",
+      "probability": 0.7173,
+      "classification": "FAKE",
+      "confidence": 0.7173
+    },
+    {
+      "filename": "0876.png",
+      "probability": 0.4251,
+      "classification": "REAL",
+      "confidence": 0.5749
+    },
+    {
+      "filename": "0877.png",
+      "probability": 0.488,
+      "classification": "REAL",
+      "confidence": 0.512
+    },
+    {
+      "filename": "0878.png",
+      "probability": 0.6799,
+      "classification": "FAKE",
+      "confidence": 0.6799
+    },
+    {
+      "filename": "0879.png",
+      "probability": 0.6622,
+      "classification": "FAKE",
+      "confidence": 0.6622
+    },
+    {
+      "filename": "0880.png",
+      "probability": 0.6649,
+      "classification": "FAKE",
+      "confidence": 0.6649
+    },
+    {
+      "filename": "0881.png",
+      "probability": 0.7344,
+      "classification": "FAKE",
+      "confidence": 0.7344
+    },
+    {
+      "filename": "0882.png",
+      "probability": 0.695,
+      "classification": "FAKE",
+      "confidence": 0.695
+    },
+    {
+      "filename": "0883.png",
+      "probability": 0.6414,
+      "classification": "FAKE",
+      "confidence": 0.6414
+    },
+    {
+      "filename": "0884.png",
+      "probability": 0.8032,
+      "classification": "FAKE",
+      "confidence": 0.8032
+    },
+    {
+      "filename": "0885.png",
+      "probability": 0.4569,
+      "classification": "REAL",
+      "confidence": 0.5431
+    },
+    {
+      "filename": "0886.png",
+      "probability": 0.4262,
+      "classification": "REAL",
+      "confidence": 0.5738
+    },
+    {
+      "filename": "0887.png",
+      "probability": 0.703,
+      "classification": "FAKE",
+      "confidence": 0.703
+    },
+    {
+      "filename": "0888.png",
+      "probability": 0.6764,
+      "classification": "FAKE",
+      "confidence": 0.6764
+    },
+    {
+      "filename": "0889.png",
+      "probability": 0.5625,
+      "classification": "FAKE",
+      "confidence": 0.5625
+    },
+    {
+      "filename": "0890.png",
+      "probability": 0.6202,
+      "classification": "FAKE",
+      "confidence": 0.6202
+    },
+    {
+      "filename": "0891.png",
+      "probability": 0.743,
+      "classification": "FAKE",
+      "confidence": 0.743
+    },
+    {
+      "filename": "0892.png",
+      "probability": 0.5545,
+      "classification": "FAKE",
+      "confidence": 0.5545
+    },
+    {
+      "filename": "0893.png",
+      "probability": 0.4987,
+      "classification": "REAL",
+      "confidence": 0.5013
+    },
+    {
+      "filename": "0894.png",
+      "probability": 0.6249,
+      "classification": "FAKE",
+      "confidence": 0.6249
+    },
+    {
+      "filename": "0895.png",
+      "probability": 0.5576,
+      "classification": "FAKE",
+      "confidence": 0.5576
+    },
+    {
+      "filename": "0896.png",
+      "probability": 0.7928,
+      "classification": "FAKE",
+      "confidence": 0.7928
+    },
+    {
+      "filename": "0897.png",
+      "probability": 0.7867,
+      "classification": "FAKE",
+      "confidence": 0.7867
+    },
+    {
+      "filename": "0898.png",
+      "probability": 0.6022,
+      "classification": "FAKE",
+      "confidence": 0.6022
+    },
+    {
+      "filename": "0899.png",
+      "probability": 0.7767,
+      "classification": "FAKE",
+      "confidence": 0.7767
+    },
+    {
+      "filename": "0900.png",
+      "probability": 0.4882,
+      "classification": "REAL",
+      "confidence": 0.5118
+    },
+    {
+      "filename": "0901.png",
+      "probability": 0.5488,
+      "classification": "FAKE",
+      "confidence": 0.5488
+    },
+    {
+      "filename": "0902.png",
+      "probability": 0.6473,
+      "classification": "FAKE",
+      "confidence": 0.6473
+    },
+    {
+      "filename": "0903.png",
+      "probability": 0.7468,
+      "classification": "FAKE",
+      "confidence": 0.7468
+    },
+    {
+      "filename": "0904.png",
+      "probability": 0.7612,
+      "classification": "FAKE",
+      "confidence": 0.7612
+    },
+    {
+      "filename": "0905.png",
+      "probability": 0.5387,
+      "classification": "FAKE",
+      "confidence": 0.5387
+    },
+    {
+      "filename": "0906.png",
+      "probability": 0.5894,
+      "classification": "FAKE",
+      "confidence": 0.5894
+    },
+    {
+      "filename": "0907.png",
+      "probability": 0.7319,
+      "classification": "FAKE",
+      "confidence": 0.7319
+    },
+    {
+      "filename": "0908.png",
+      "probability": 0.6198,
+      "classification": "FAKE",
+      "confidence": 0.6198
+    },
+    {
+      "filename": "0909.png",
+      "probability": 0.7168,
+      "classification": "FAKE",
+      "confidence": 0.7168
+    },
+    {
+      "filename": "0910.png",
+      "probability": 0.6733,
+      "classification": "FAKE",
+      "confidence": 0.6733
+    },
+    {
+      "filename": "0911.png",
+      "probability": 0.5662,
+      "classification": "FAKE",
+      "confidence": 0.5662
+    },
+    {
+      "filename": "0912.png",
+      "probability": 0.6794,
+      "classification": "FAKE",
+      "confidence": 0.6794
+    },
+    {
+      "filename": "0913.png",
+      "probability": 0.5158,
+      "classification": "FAKE",
+      "confidence": 0.5158
+    },
+    {
+      "filename": "0914.png",
+      "probability": 0.7105,
+      "classification": "FAKE",
+      "confidence": 0.7105
+    },
+    {
+      "filename": "0915.png",
+      "probability": 0.7352,
+      "classification": "FAKE",
+      "confidence": 0.7352
+    },
+    {
+      "filename": "0916.png",
+      "probability": 0.6444,
+      "classification": "FAKE",
+      "confidence": 0.6444
+    },
+    {
+      "filename": "0917.png",
+      "probability": 0.6976,
+      "classification": "FAKE",
+      "confidence": 0.6976
+    },
+    {
+      "filename": "0918.png",
+      "probability": 0.5741,
+      "classification": "FAKE",
+      "confidence": 0.5741
+    },
+    {
+      "filename": "0919.png",
+      "probability": 0.6033,
+      "classification": "FAKE",
+      "confidence": 0.6033
+    },
+    {
+      "filename": "0920.png",
+      "probability": 0.6082,
+      "classification": "FAKE",
+      "confidence": 0.6082
+    },
+    {
+      "filename": "0921.png",
+      "probability": 0.6546,
+      "classification": "FAKE",
+      "confidence": 0.6546
+    },
+    {
+      "filename": "0922.png",
+      "probability": 0.6894,
+      "classification": "FAKE",
+      "confidence": 0.6894
+    },
+    {
+      "filename": "0923.png",
+      "probability": 0.7588,
+      "classification": "FAKE",
+      "confidence": 0.7588
+    },
+    {
+      "filename": "0924.png",
+      "probability": 0.7606,
+      "classification": "FAKE",
+      "confidence": 0.7606
+    },
+    {
+      "filename": "0925.png",
+      "probability": 0.6051,
+      "classification": "FAKE",
+      "confidence": 0.6051
+    },
+    {
+      "filename": "0926.png",
+      "probability": 0.5924,
+      "classification": "FAKE",
+      "confidence": 0.5924
+    },
+    {
+      "filename": "0927.png",
+      "probability": 0.4721,
+      "classification": "REAL",
+      "confidence": 0.5279
+    },
+    {
+      "filename": "0928.png",
+      "probability": 0.6638,
+      "classification": "FAKE",
+      "confidence": 0.6638
+    },
+    {
+      "filename": "0929.png",
+      "probability": 0.3653,
+      "classification": "REAL",
+      "confidence": 0.6347
+    },
+    {
+      "filename": "0930.png",
+      "probability": 0.6817,
+      "classification": "FAKE",
+      "confidence": 0.6817
+    },
+    {
+      "filename": "0931.png",
+      "probability": 0.6772,
+      "classification": "FAKE",
+      "confidence": 0.6772
+    },
+    {
+      "filename": "0932.png",
+      "probability": 0.6703,
+      "classification": "FAKE",
+      "confidence": 0.6703
+    },
+    {
+      "filename": "0933.png",
+      "probability": 0.7219,
+      "classification": "FAKE",
+      "confidence": 0.7219
+    },
+    {
+      "filename": "0934.png",
+      "probability": 0.7097,
+      "classification": "FAKE",
+      "confidence": 0.7097
+    },
+    {
+      "filename": "0935.png",
+      "probability": 0.6673,
+      "classification": "FAKE",
+      "confidence": 0.6673
+    },
+    {
+      "filename": "0936.png",
+      "probability": 0.7457,
+      "classification": "FAKE",
+      "confidence": 0.7457
+    },
+    {
+      "filename": "0937.png",
+      "probability": 0.6743,
+      "classification": "FAKE",
+      "confidence": 0.6743
+    },
+    {
+      "filename": "0938.png",
+      "probability": 0.657,
+      "classification": "FAKE",
+      "confidence": 0.657
+    },
+    {
+      "filename": "0939.png",
+      "probability": 0.613,
+      "classification": "FAKE",
+      "confidence": 0.613
+    },
+    {
+      "filename": "0940.png",
+      "probability": 0.5933,
+      "classification": "FAKE",
+      "confidence": 0.5933
+    },
+    {
+      "filename": "0941.png",
+      "probability": 0.6874,
+      "classification": "FAKE",
+      "confidence": 0.6874
+    },
+    {
+      "filename": "0942.png",
+      "probability": 0.6094,
+      "classification": "FAKE",
+      "confidence": 0.6094
+    },
+    {
+      "filename": "0943.png",
+      "probability": 0.5513,
+      "classification": "FAKE",
+      "confidence": 0.5513
+    },
+    {
+      "filename": "0944.png",
+      "probability": 0.7657,
+      "classification": "FAKE",
+      "confidence": 0.7657
+    },
+    {
+      "filename": "0945.png",
+      "probability": 0.5913,
+      "classification": "FAKE",
+      "confidence": 0.5913
+    },
+    {
+      "filename": "0946.png",
+      "probability": 0.6558,
+      "classification": "FAKE",
+      "confidence": 0.6558
+    },
+    {
+      "filename": "0947.png",
+      "probability": 0.6974,
+      "classification": "FAKE",
+      "confidence": 0.6974
+    },
+    {
+      "filename": "0948.png",
+      "probability": 0.6846,
+      "classification": "FAKE",
+      "confidence": 0.6846
+    },
+    {
+      "filename": "0949.png",
+      "probability": 0.6632,
+      "classification": "FAKE",
+      "confidence": 0.6632
+    },
+    {
+      "filename": "0950.png",
+      "probability": 0.629,
+      "classification": "FAKE",
+      "confidence": 0.629
+    },
+    {
+      "filename": "0951.png",
+      "probability": 0.5452,
+      "classification": "FAKE",
+      "confidence": 0.5452
+    },
+    {
+      "filename": "0952.png",
+      "probability": 0.7638,
+      "classification": "FAKE",
+      "confidence": 0.7638
+    },
+    {
+      "filename": "0953.png",
+      "probability": 0.4194,
+      "classification": "REAL",
+      "confidence": 0.5806
+    },
+    {
+      "filename": "0954.png",
+      "probability": 0.7079,
+      "classification": "FAKE",
+      "confidence": 0.7079
+    },
+    {
+      "filename": "0955.png",
+      "probability": 0.5999,
+      "classification": "FAKE",
+      "confidence": 0.5999
+    },
+    {
+      "filename": "0956.png",
+      "probability": 0.514,
+      "classification": "FAKE",
+      "confidence": 0.514
+    },
+    {
+      "filename": "0957.png",
+      "probability": 0.0837,
+      "classification": "REAL",
+      "confidence": 0.9163
+    },
+    {
+      "filename": "0958.png",
+      "probability": 0.6453,
+      "classification": "FAKE",
+      "confidence": 0.6453
+    },
+    {
+      "filename": "0959.png",
+      "probability": 0.6447,
+      "classification": "FAKE",
+      "confidence": 0.6447
+    },
+    {
+      "filename": "0960.png",
+      "probability": 0.574,
+      "classification": "FAKE",
+      "confidence": 0.574
+    },
+    {
+      "filename": "0961.png",
+      "probability": 0.5654,
+      "classification": "FAKE",
+      "confidence": 0.5654
+    },
+    {
+      "filename": "0962.png",
+      "probability": 0.5743,
+      "classification": "FAKE",
+      "confidence": 0.5743
+    },
+    {
+      "filename": "0963.png",
+      "probability": 0.6833,
+      "classification": "FAKE",
+      "confidence": 0.6833
+    },
+    {
+      "filename": "0964.png",
+      "probability": 0.7546,
+      "classification": "FAKE",
+      "confidence": 0.7546
+    },
+    {
+      "filename": "0965.png",
+      "probability": 0.374,
+      "classification": "REAL",
+      "confidence": 0.626
+    },
+    {
+      "filename": "0966.png",
+      "probability": 0.6983,
+      "classification": "FAKE",
+      "confidence": 0.6983
+    },
+    {
+      "filename": "0967.png",
+      "probability": 0.6806,
+      "classification": "FAKE",
+      "confidence": 0.6806
+    },
+    {
+      "filename": "0968.png",
+      "probability": 0.6759,
+      "classification": "FAKE",
+      "confidence": 0.6759
+    },
+    {
+      "filename": "0969.png",
+      "probability": 0.6423,
+      "classification": "FAKE",
+      "confidence": 0.6423
+    },
+    {
+      "filename": "0970.png",
+      "probability": 0.7508,
+      "classification": "FAKE",
+      "confidence": 0.7508
+    },
+    {
+      "filename": "0971.png",
+      "probability": 0.4383,
+      "classification": "REAL",
+      "confidence": 0.5617
+    },
+    {
+      "filename": "0972.png",
+      "probability": 0.6601,
+      "classification": "FAKE",
+      "confidence": 0.6601
+    },
+    {
+      "filename": "0973.png",
+      "probability": 0.5623,
+      "classification": "FAKE",
+      "confidence": 0.5623
+    },
+    {
+      "filename": "0974.png",
+      "probability": 0.6806,
+      "classification": "FAKE",
+      "confidence": 0.6806
+    },
+    {
+      "filename": "0975.png",
+      "probability": 0.5601,
+      "classification": "FAKE",
+      "confidence": 0.5601
+    },
+    {
+      "filename": "0976.png",
+      "probability": 0.5478,
+      "classification": "FAKE",
+      "confidence": 0.5478
+    },
+    {
+      "filename": "0977.png",
+      "probability": 0.7104,
+      "classification": "FAKE",
+      "confidence": 0.7104
+    },
+    {
+      "filename": "0978.png",
+      "probability": 0.6768,
+      "classification": "FAKE",
+      "confidence": 0.6768
+    },
+    {
+      "filename": "0979.png",
+      "probability": 0.5796,
+      "classification": "FAKE",
+      "confidence": 0.5796
+    },
+    {
+      "filename": "0980.png",
+      "probability": 0.587,
+      "classification": "FAKE",
+      "confidence": 0.587
+    },
+    {
+      "filename": "0981.png",
+      "probability": 0.6811,
+      "classification": "FAKE",
+      "confidence": 0.6811
+    },
+    {
+      "filename": "0982.png",
+      "probability": 0.9999,
+      "classification": "FAKE",
+      "confidence": 0.9999
+    },
+    {
+      "filename": "0983.png",
+      "probability": 0.6078,
+      "classification": "FAKE",
+      "confidence": 0.6078
+    },
+    {
+      "filename": "0984.png",
+      "probability": 0.5297,
+      "classification": "FAKE",
+      "confidence": 0.5297
+    },
+    {
+      "filename": "0985.png",
+      "probability": 0.6701,
+      "classification": "FAKE",
+      "confidence": 0.6701
+    },
+    {
+      "filename": "0986.png",
+      "probability": 0.7614,
+      "classification": "FAKE",
+      "confidence": 0.7614
+    },
+    {
+      "filename": "0987.png",
+      "probability": 0.7151,
+      "classification": "FAKE",
+      "confidence": 0.7151
+    },
+    {
+      "filename": "0988.png",
+      "probability": 0.5989,
+      "classification": "FAKE",
+      "confidence": 0.5989
+    },
+    {
+      "filename": "0989.png",
+      "probability": 0.8062,
+      "classification": "FAKE",
+      "confidence": 0.8062
+    },
+    {
+      "filename": "0990.png",
+      "probability": 0.6417,
+      "classification": "FAKE",
+      "confidence": 0.6417
+    },
+    {
+      "filename": "0991.png",
+      "probability": 0.4334,
+      "classification": "REAL",
+      "confidence": 0.5666
+    },
+    {
+      "filename": "0992.png",
+      "probability": 0.5462,
+      "classification": "FAKE",
+      "confidence": 0.5462
+    },
+    {
+      "filename": "0993.png",
+      "probability": 0.7739,
+      "classification": "FAKE",
+      "confidence": 0.7739
+    },
+    {
+      "filename": "0994.png",
+      "probability": 0.7518,
+      "classification": "FAKE",
+      "confidence": 0.7518
+    },
+    {
+      "filename": "0995.png",
+      "probability": 0.5407,
+      "classification": "FAKE",
+      "confidence": 0.5407
+    },
+    {
+      "filename": "0996.png",
+      "probability": 0.6691,
+      "classification": "FAKE",
+      "confidence": 0.6691
+    },
+    {
+      "filename": "0997.png",
+      "probability": 0.5621,
+      "classification": "FAKE",
+      "confidence": 0.5621
+    },
+    {
+      "filename": "0998.png",
+      "probability": 0.7579,
+      "classification": "FAKE",
+      "confidence": 0.7579
+    },
+    {
+      "filename": "0999.png",
+      "probability": 0.7091,
+      "classification": "FAKE",
+      "confidence": 0.7091
+    }
+  ]
+}

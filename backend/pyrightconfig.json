@@ -1,0 +1,12 @@
+{
+  "pythonVersion": "3.12",
+  "pythonPlatform": "Windows",
+  "venvPath": "",
+  "pythonPath": "C:\\Users\\konda\\AppData\\Local\\Programs\\Python\\Python312\\python.exe",
+  "extraPaths": [
+    "C:\\Users\\konda\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages"
+  ],
+  "reportMissingImports": false,
+  "reportMissingModuleSource": false,
+  "typeCheckingMode": "basic"
+}

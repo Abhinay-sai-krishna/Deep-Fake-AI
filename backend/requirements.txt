@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-multipart
+# AI Model dependencies (uncomment to install later)
+# torch
+# torchvision
+# tensorflow
+# opencv-python
+# librosa

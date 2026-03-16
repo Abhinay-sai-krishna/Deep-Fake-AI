@@ -1,0 +1,42 @@
+============================================================
+Test 1: Real Human Photo
+Expected: REAL
+RESULT: REAL
+  Authentic: True
+  AI Probability: 12.0%
+  Human Probability: 88.0%
+  Confidence: 0.88
+  Manipulation: None
+  Model: EfficientNet-B0 (FaceForensics++ Trained)
+  Raw Score: 0.12
+  ACCURACY: PASS
+
+============================================================
+Test 2: AI Generated Face
+Expected: FAKE
+RESULT: FAKE
+  Authentic: False
+  AI Probability: 99.73%
+  Human Probability: 0.27%
+  Confidence: 0.9973
+  Manipulation: AI Generated / Deepfake
+  Model: EfficientNet-B0 (FaceForensics++ Trained)
+  Raw Score: 0.9973
+  ACCURACY: PASS
+
+============================================================
+Test 3: Ambiguous Portrait
+Expected: AMBIGUOUS
+RESULT: FAKE
+  Authentic: False
+  AI Probability: 52.0%
+  Human Probability: 48.0%
+  Confidence: 0.52
+  Manipulation: AI Generated / Deepfake
+  Model: EfficientNet-B0 (FaceForensics++ Trained)
+  Raw Score: 0.52
+  ACCURACY: N/A (ambiguous)
+
+============================================================
+SUMMARY
+============================================================
